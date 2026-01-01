@@ -1,0 +1,1001 @@
+Loan_ID,Customer_ID,Customer_Age,Gender,Marital_Status,Dependents,Education_Level,Employment_Type,Salary,Other_Income,Loan_Amount,Product_Type,Credit_Score,Tenure_Months,Interest_Rate,EMI,Current_Status,Delinquency_Flag,Channel,Issue_Date,Region
+L0001,C00001,59,Male,Married,0,Bachelors,Freelancer,28737361,3000264,452932120,Personal,691,24,17.72,15917690,Active,0,Branch,13-10-2023,Medan
+L0002,C00002,49,Male,Married,0,Bachelors,Freelancer,25256880,9160899,231557516,BNPL,593,12,14.3,17607617,Active,0,Partner,29-04-2024,Surabaya
+L0003,C00003,35,Male,Married,0,Bachelors,Freelancer,33704996,3514674,261601121,Personal,693,12,12.25,13044302,Active,1,Agent,14-03-2025,Surabaya
+L0004,C00004,63,Female,Single,0,High School,Salaried,20941926,9422487,376883890,Auto,646,60,10.69,1396904,Active,0,Agent,22-05-2025,Surabaya
+L0005,C00005,28,Female,Single,0,Bachelors,Self-Employed,16047100,10536772,257399609,Personal,626,36,19.1,6780833,Closed,0,Partner,06-12-2023,Bali
+L0006,C00006,41,Male,Married,0,Masters,Salaried,43199721,14810257,198650529,Education,779,36,18.33,5165666,Active,0,Online,07-09-2025,Bali
+L0007,C00007,59,Male,Married,3,High School,Salaried,15531792,3073961,10987938,Mortgage,790,12,19,9814324,Delinquent,1,Partner,13-09-2023,Bandung
+L0008,C00008,39,Male,Single,2,Bachelors,Salaried,13893518,8606776,84183397,Mortgage,689,24,13.96,9948693,Active,0,Online,05-03-2023,Surabaya
+L0009,C00009,43,Female,Married,0,Masters,Salaried,37463505,148178,40296194,BNPL,604,60,12.2,7185430,Active,0,Partner,15-06-2023,Bali
+L0010,C00010,31,Female,Single,1,Masters,Salaried,33607382,8446731,371692158,Mortgage,600,48,20.16,11063811,Closed,0,Branch,19-05-2025,Bali
+L0011,C00011,31,Female,Married,3,High School,Freelancer,47566130,2208977,131241577,Education,651,48,20.38,6880599,Delinquent,0,Partner,04-03-2023,Bali
+L0012,C00012,44,Female,Single,3,High School,Salaried,7029341,1217309,480624887,Mortgage,716,36,15.29,8572307,Active,0,Branch,03-04-2023,Bandung
+L0013,C00013,56,Male,Married,0,High School,Self-Employed,58349113,11256151,461681722,Education,710,24,17.79,5597158,Closed,0,Online,15-03-2023,Bandung
+L0014,C00014,60,Male,Single,3,Bachelors,Salaried,20962977,3370698,187843013,Auto,710,36,13.98,7050485,Restructured,0,Branch,04-05-2025,Surabaya
+L0015,C00015,44,Male,Married,0,Bachelors,Salaried,37678713,10710626,477102454,Personal,578,24,19.23,16348646,Restructured,0,Online,23-07-2025,Medan
+L0016,C00016,23,Male,Single,2,High School,Salaried,32692739,8344854,162059311,Auto,618,60,21.37,1181136,Closed,0,Agent,06-01-2025,Surabaya
+L0017,C00017,42,Female,Single,2,PhD,Salaried,24179330,7315664,36272447,Personal,747,24,19.01,14799570,Closed,0,Branch,21-08-2024,Bali
+L0018,C00018,22,Female,Single,3,Bachelors,Salaried,53072774,5132928,378544240,Auto,708,48,16.2,16222447,Active,0,Branch,13-01-2024,Bali
+L0019,C00019,44,Male,Married,3,High School,Salaried,40324049,13782350,396110866,Auto,629,12,15.34,6366434,Delinquent,1,Agent,12-09-2022,Jakarta
+L0020,C00020,64,Male,Married,1,Bachelors,Salaried,15827369,6874399,480223170,Mortgage,580,48,18.28,12397806,Active,0,Branch,10-06-2025,Surabaya
+L0021,C00021,50,Female,Single,3,Bachelors,Salaried,24625255,9103611,245556049,Personal,766,60,18.88,19585069,Restructured,0,Online,09-05-2025,Bali
+L0022,C00022,58,Male,Married,1,High School,Salaried,10369337,5860616,400140518,Personal,661,48,16.94,16158830,Active,0,Online,05-10-2022,Bali
+L0023,C00023,22,Female,Married,2,High School,Freelancer,35687424,2275598,252417992,Auto,595,36,18,10311487,Active,0,Branch,11-12-2024,Medan
+L0024,C00024,41,Male,Married,2,Masters,Salaried,54402947,4892571,223824883,Education,646,72,9.55,15244799,Active,0,Partner,10-12-2022,Jakarta
+L0025,C00025,53,Male,Single,0,Bachelors,Self-Employed,38331693,4491260,384576587,Personal,754,48,23.23,15262957,Active,0,Partner,05-08-2023,Surabaya
+L0026,C00026,32,Male,Married,2,Bachelors,Self-Employed,39434864,9224610,108914436,Auto,601,24,20.65,7513766,Active,0,Agent,04-09-2024,Bandung
+L0027,C00027,42,Male,Single,1,Bachelors,Freelancer,20235953,9750229,394348994,Mortgage,687,24,13.98,11985104,Active,1,Online,30-05-2023,Surabaya
+L0028,C00028,64,Male,Single,3,High School,Freelancer,20534442,9559250,179377912,Mortgage,765,48,17.01,11137641,Closed,1,Online,20-08-2024,Surabaya
+L0029,C00029,45,Male,Divorced,0,High School,Salaried,11227740,8779116,407548125,Personal,623,48,8.76,3993518,Closed,1,Online,12-09-2022,Medan
+L0030,C00030,47,Male,Single,1,Bachelors,Self-Employed,18945748,5948491,459361347,Auto,590,24,8.66,6993265,Active,0,Partner,17-10-2022,Surabaya
+L0031,C00031,62,Female,Married,3,High School,Freelancer,19649817,10157715,125196868,Personal,772,24,12.01,2057980,Closed,0,Online,25-09-2023,Medan
+L0032,C00032,48,Female,Married,0,High School,Salaried,12857997,36160,430237440,Education,626,72,19.04,3032479,Active,0,Online,07-09-2024,Medan
+L0033,C00033,36,Female,Married,2,Masters,Salaried,34988602,19156,217961178,Personal,680,12,21.63,1896881,Active,0,Branch,23-08-2023,Bali
+L0034,C00034,35,Female,Married,1,PhD,Salaried,8939625,7416240,30909659,Personal,736,36,16.95,19377764,Closed,0,Branch,05-08-2023,Bandung
+L0035,C00035,64,Female,Single,3,Masters,Freelancer,6629618,2570348,171826844,Personal,663,12,16.51,2641455,Delinquent,0,Partner,28-05-2025,Medan
+L0036,C00036,23,Male,Single,0,Masters,Freelancer,58706423,2562688,85029201,Personal,601,60,14.44,5927386,Active,0,Branch,10-02-2023,Jakarta
+L0037,C00037,57,Male,Married,0,High School,Salaried,32355826,6964745,441461899,Mortgage,711,12,10.59,1264826,Active,0,Branch,08-01-2024,Jakarta
+L0038,C00038,27,Female,Single,2,PhD,Salaried,16381957,13042734,347699148,Personal,726,48,9.89,16839826,Active,0,Branch,28-11-2024,Bandung
+L0039,C00039,41,Male,Single,3,High School,Salaried,44537791,12540282,49333160,Personal,705,12,20.17,4691848,Active,0,Partner,26-11-2024,Medan
+L0040,C00040,29,Female,Single,2,PhD,Salaried,31408346,5474106,357526273,Auto,760,48,22.84,8881317,Active,0,Online,13-07-2025,Bandung
+L0041,C00041,59,Female,Single,2,PhD,Contract,7568101,7795807,115956644,Personal,636,60,15.33,14928272,Restructured,1,Online,11-05-2024,Bali
+L0042,C00042,38,Male,Single,3,Masters,Salaried,37273223,10203238,147002703,Personal,658,36,18.55,6712978,Delinquent,0,Online,12-03-2023,Jakarta
+L0043,C00043,24,Male,Single,3,PhD,Salaried,52004736,14093179,495391279,BNPL,773,36,22.63,8190063,Closed,0,Online,10-12-2023,Surabaya
+L0044,C00044,45,Male,Married,3,Bachelors,Salaried,34163760,4914005,421024407,Mortgage,690,36,9.44,15007882,Active,0,Partner,20-01-2025,Jakarta
+L0045,C00045,34,Female,Married,1,High School,Self-Employed,56629424,881809,71803618,Education,774,24,20.33,2645589,Closed,0,Online,28-04-2025,Medan
+L0046,C00046,29,Male,Married,3,Bachelors,Salaried,32207039,4499311,153058325,BNPL,775,60,17.87,11613891,Active,0,Agent,22-02-2024,Bandung
+L0047,C00047,46,Female,Single,0,Bachelors,Self-Employed,29423854,9125805,472192995,Mortgage,774,24,17.58,18871312,Active,1,Online,17-05-2025,Jakarta
+L0048,C00048,22,Female,Single,2,High School,Salaried,31973141,6356895,266517622,Personal,797,48,12.68,4931041,Active,1,Partner,12-10-2024,Surabaya
+L0049,C00049,40,Female,Single,1,Bachelors,Salaried,42257022,3808282,227050937,Mortgage,618,24,18.94,14784330,Closed,0,Partner,01-07-2025,Surabaya
+L0050,C00050,48,Male,Married,3,PhD,Salaried,48426742,645649,384011053,BNPL,669,24,20.72,12906167,Delinquent,0,Branch,13-01-2024,Bandung
+L0051,C00051,27,Male,Married,1,High School,Salaried,27224699,8601594,420779676,Mortgage,616,24,9.81,11303069,Active,0,Branch,19-12-2024,Bandung
+L0052,C00052,64,Female,Single,3,Masters,Salaried,52866466,11731622,499616290,Auto,610,36,16.54,11936713,Active,0,Online,11-12-2022,Jakarta
+L0053,C00053,28,Male,Divorced,1,Masters,Freelancer,21740925,6125488,54087791,Personal,737,36,9.62,14117447,Active,1,Branch,07-11-2022,Medan
+L0054,C00054,55,Male,Single,2,Masters,Freelancer,13018205,12026844,144366197,BNPL,620,48,21.96,2763655,Delinquent,0,Online,07-06-2025,Bali
+L0055,C00055,34,Male,Married,2,PhD,Contract,9928476,8418385,188498190,Mortgage,701,24,16.12,19253686,Active,1,Branch,13-10-2024,Surabaya
+L0056,C00056,37,Female,Married,0,Bachelors,Salaried,8886613,3402155,165165499,Education,740,12,20.93,8332129,Active,0,Partner,15-02-2024,Bandung
+L0057,C00057,56,Female,Married,0,PhD,Contract,42564874,3827271,361318366,Personal,763,48,13.89,14063930,Closed,0,Online,16-12-2022,Bali
+L0058,C00058,60,Male,Married,3,Masters,Salaried,52204477,4614965,479547561,Personal,786,60,10,16935998,Active,0,Partner,02-03-2023,Bali
+L0059,C00059,24,Female,Married,2,High School,Salaried,41859292,198110,225025640,Personal,738,12,8.66,10324118,Active,0,Online,15-06-2023,Bali
+L0060,C00060,22,Male,Single,1,Bachelors,Salaried,18034994,13616893,94402474,Mortgage,700,48,12.5,6389003,Active,0,Branch,06-03-2025,Medan
+L0061,C00061,26,Male,Married,1,Masters,Salaried,13722856,4079430,28868041,Personal,579,36,11.91,2542549,Closed,0,Agent,01-05-2024,Bandung
+L0062,C00062,62,Male,Single,1,High School,Self-Employed,29873513,8803235,455116336,Personal,737,48,16.97,3132720,Active,0,Branch,08-03-2025,Surabaya
+L0063,C00063,24,Male,Married,0,Bachelors,Salaried,55993088,11191697,399166271,Education,695,60,8.35,13165951,Restructured,0,Branch,22-05-2023,Bandung
+L0064,C00064,49,Female,Married,1,Bachelors,Salaried,6193502,10763771,342453535,Personal,645,60,16.33,13861408,Closed,0,Partner,18-04-2025,Jakarta
+L0065,C00065,38,Female,Married,0,High School,Self-Employed,53094365,3732517,403291839,BNPL,605,48,14.27,5453595,Active,0,Agent,05-02-2024,Surabaya
+L0066,C00066,46,Female,Married,0,Bachelors,Salaried,29799633,3291066,222419314,Personal,602,24,17.23,13986474,Active,0,Online,26-01-2023,Bandung
+L0067,C00067,64,Male,Married,3,Masters,Salaried,8329782,13273480,390134145,BNPL,556,60,19.24,11541664,Active,0,Branch,14-03-2025,Surabaya
+L0068,C00068,54,Male,Married,1,Bachelors,Salaried,45411257,14277320,90989847,Auto,646,36,18.15,19757331,Active,0,Branch,25-01-2025,Jakarta
+L0069,C00069,30,Male,Married,1,High School,Freelancer,10116176,7764461,40459094,Education,746,12,23.75,1908573,Delinquent,0,Online,17-03-2025,Surabaya
+L0070,C00070,56,Female,Single,2,High School,Freelancer,14143589,14294215,247299877,Education,662,36,10.21,16469349,Delinquent,1,Online,21-05-2023,Bali
+L0071,C00071,34,Male,Single,3,Bachelors,Salaried,38935757,8119550,474453150,Personal,769,60,14.88,1346300,Active,0,Online,06-03-2025,Medan
+L0072,C00072,51,Female,Single,2,Masters,Salaried,14202134,8336562,334011890,Personal,674,60,14.8,5460624,Active,0,Branch,01-10-2022,Jakarta
+L0073,C00073,35,Female,Single,3,High School,Salaried,39517976,4753954,151466855,Personal,749,12,14.67,1624747,Active,0,Partner,22-04-2024,Surabaya
+L0074,C00074,28,Female,Married,1,Bachelors,Freelancer,7426062,14930513,102806937,Mortgage,756,48,18.62,17147776,Active,1,Partner,24-01-2023,Jakarta
+L0075,C00075,34,Female,Single,0,High School,Salaried,13209517,6605188,462093468,BNPL,729,60,15.84,12672237,Active,0,Branch,04-11-2023,Bali
+L0076,C00076,43,Female,Divorced,0,Bachelors,Salaried,46049527,9606541,158890818,Auto,681,24,16.28,15803289,Active,0,Online,05-05-2024,Medan
+L0077,C00077,60,Female,Single,0,Masters,Salaried,47548791,1699547,117860473,Mortgage,711,36,14.92,3318890,Restructured,0,Online,05-11-2023,Jakarta
+L0078,C00078,41,Male,Single,0,Masters,Salaried,15127222,11266205,182156237,Personal,746,48,23.87,10293498,Active,0,Online,03-04-2023,Bali
+L0079,C00079,36,Male,Married,0,High School,Salaried,39512811,4400131,145347503,BNPL,710,36,22.84,3575228,Active,0,Branch,22-08-2024,Bali
+L0080,C00080,38,Female,Married,2,Bachelors,Freelancer,27046177,6494374,202674624,Education,670,12,12.92,5050338,Delinquent,0,Online,20-07-2023,Bali
+L0081,C00081,44,Female,Married,3,High School,Salaried,18655842,7638483,44725365,Personal,746,48,9.79,9631334,Active,1,Branch,05-01-2024,Surabaya
+L0082,C00082,46,Male,Married,1,Bachelors,Salaried,51754929,11498431,263049689,Auto,587,60,21.44,10109810,Active,1,Agent,15-10-2023,Bandung
+L0083,C00083,45,Female,Married,2,Bachelors,Freelancer,16290492,8731032,113182225,Personal,775,48,23.95,4574787,Active,0,Partner,05-02-2025,Jakarta
+L0084,C00084,61,Female,Single,3,High School,Freelancer,54347456,9850267,94745814,Auto,671,48,12.68,10094776,Active,0,Partner,25-09-2022,Bandung
+L0085,C00085,49,Male,Divorced,0,High School,Salaried,42581619,2940107,48761620,Auto,575,36,13.72,9854604,Restructured,0,Branch,27-09-2024,Bali
+L0086,C00086,35,Female,Divorced,3,Bachelors,Salaried,27666068,2050241,271714680,Personal,678,24,23.07,19176178,Delinquent,0,Online,13-01-2024,Bandung
+L0087,C00087,21,Female,Married,3,Masters,Salaried,44881413,11409642,118905876,Auto,553,48,19.38,16451876,Delinquent,0,Online,01-12-2023,Bali
+L0088,C00088,45,Female,Single,0,PhD,Freelancer,5006464,4934349,414525338,Personal,588,24,12.73,19120979,Delinquent,0,Partner,12-04-2024,Bali
+L0089,C00089,27,Male,Married,0,High School,Salaried,14978034,1156245,319894505,Auto,603,60,17.3,7427799,Active,0,Branch,09-10-2023,Medan
+L0090,C00090,29,Male,Single,0,Masters,Freelancer,38399680,4926622,71428090,Auto,767,12,23.11,18636515,Delinquent,0,Branch,19-06-2024,Medan
+L0091,C00091,44,Male,Single,1,Bachelors,Self-Employed,59057178,158998,145131333,Personal,710,36,20.99,3436385,Restructured,0,Online,02-06-2024,Bandung
+L0092,C00092,21,Female,Single,0,Bachelors,Salaried,20055636,10064687,96895606,Mortgage,582,36,19.87,10927276,Active,0,Branch,24-07-2025,Jakarta
+L0093,C00093,64,Female,Married,1,Masters,Salaried,6161140,9011603,103785087,Mortgage,749,60,19.79,1979581,Active,0,Online,20-02-2024,Bandung
+L0094,C00094,28,Male,Married,0,Masters,Salaried,58944811,3762853,169400491,Personal,569,24,10.85,8530223,Active,0,Online,07-06-2023,Jakarta
+L0095,C00095,44,Female,Married,1,PhD,Salaried,16042682,4050230,477624291,Personal,565,12,21.19,4812661,Active,0,Online,03-06-2024,Bandung
+L0096,C00096,31,Female,Married,3,Bachelors,Salaried,48778108,10391619,356474011,Mortgage,698,24,12.42,15308257,Active,1,Branch,16-04-2023,Surabaya
+L0097,C00097,37,Female,Married,2,Bachelors,Self-Employed,44344665,6184398,106775596,Education,722,60,22.89,3969554,Delinquent,1,Online,14-06-2025,Surabaya
+L0098,C00098,28,Female,Single,3,Masters,Contract,55596687,14925911,213359248,Personal,796,24,13.83,19112400,Delinquent,0,Online,09-09-2022,Jakarta
+L0099,C00099,55,Female,Single,3,High School,Salaried,31557403,9664728,150708478,Personal,797,24,21.72,2484632,Active,0,Partner,17-05-2025,Medan
+L0100,C00100,55,Male,Divorced,0,Bachelors,Self-Employed,21396352,8206336,285657082,Personal,676,12,12.26,6160593,Active,0,Branch,27-06-2024,Jakarta
+L0101,C00101,53,Female,Single,1,Bachelors,Salaried,40630691,5170310,385452327,Auto,767,48,16.23,19370742,Delinquent,0,Branch,11-06-2023,Bandung
+L0102,C00102,25,Male,Married,2,Bachelors,Salaried,15589887,13457080,402858105,Personal,636,12,9.71,15598215,Closed,0,Branch,27-02-2023,Bali
+L0103,C00103,62,Female,Married,0,High School,Salaried,17679338,4461918,274111859,Personal,631,24,18.56,5662543,Active,0,Agent,25-03-2024,Surabaya
+L0104,C00104,59,Male,Married,0,High School,Self-Employed,35601080,11761803,399165954,Mortgage,611,24,21.38,7535893,Closed,0,Online,23-05-2023,Bali
+L0105,C00105,61,Female,Married,0,Masters,Freelancer,31226362,13777513,334419659,Auto,580,36,19.5,11198483,Delinquent,0,Online,08-04-2023,Surabaya
+L0106,C00106,48,Male,Married,3,High School,Self-Employed,56727750,1808516,283633510,Personal,793,48,16.37,10255180,Delinquent,1,Branch,25-02-2023,Bandung
+L0107,C00107,27,Female,Married,1,Bachelors,Salaried,55335659,956011,187428171,Auto,591,36,8.72,4097619,Active,0,Online,01-04-2023,Surabaya
+L0108,C00108,29,Male,Divorced,1,High School,Salaried,57296372,3657905,405580353,Auto,561,60,22.94,16362625,Active,0,Branch,22-05-2024,Jakarta
+L0109,C00109,28,Female,Married,2,High School,Salaried,17602694,12413737,336036727,Personal,614,72,19.29,7097890,Delinquent,0,Branch,25-10-2024,Bali
+L0110,C00110,32,Male,Single,1,High School,Salaried,20927403,3761509,190504877,Personal,783,36,19.93,15730030,Active,0,Agent,04-09-2023,Bali
+L0111,C00111,54,Female,Married,1,High School,Freelancer,38150798,9181563,246735189,BNPL,622,48,20.71,12525284,Closed,0,Partner,14-10-2022,Bandung
+L0112,C00112,53,Male,Divorced,0,Masters,Freelancer,19671009,9655179,410328918,Personal,680,48,19.96,12944245,Active,0,Agent,04-02-2024,Bali
+L0113,C00113,43,Male,Single,0,High School,Self-Employed,13821549,10149734,440066845,Mortgage,664,60,15.06,4480069,Active,0,Online,12-07-2024,Bandung
+L0114,C00114,44,Female,Married,3,PhD,Salaried,16577795,4110993,108150468,Education,767,36,19.74,5575363,Active,1,Partner,17-12-2022,Medan
+L0115,C00115,57,Female,Married,0,Bachelors,Salaried,24485901,8681921,178149384,Personal,686,36,18,18197810,Active,0,Online,17-02-2024,Jakarta
+L0116,C00116,55,Male,Married,0,Bachelors,Salaried,39157583,14201417,292936404,Personal,655,36,21.66,4000758,Delinquent,1,Branch,22-11-2022,Surabaya
+L0117,C00117,64,Female,Single,0,Bachelors,Salaried,20589702,12736974,341829514,Auto,728,60,20.84,1929441,Active,0,Partner,12-12-2023,Surabaya
+L0118,C00118,60,Male,Married,0,Bachelors,Salaried,21091794,9991133,258648772,BNPL,565,24,8.66,1702726,Delinquent,0,Online,21-07-2025,Surabaya
+L0119,C00119,42,Male,Divorced,3,Masters,Self-Employed,53604169,1717355,224147682,Education,765,24,14.06,10247362,Delinquent,0,Branch,04-07-2025,Medan
+L0120,C00120,47,Male,Single,0,High School,Self-Employed,34092273,12335225,299666394,Mortgage,791,36,8.56,7131630,Active,0,Online,21-05-2024,Jakarta
+L0121,C00121,55,Female,Single,2,Bachelors,Salaried,46665616,5048336,116984432,Personal,627,24,9.63,9297696,Closed,1,Online,13-11-2024,Bali
+L0122,C00122,21,Male,Divorced,2,Masters,Salaried,19367204,14259395,18623041,Mortgage,674,36,17.62,12055361,Active,0,Agent,02-10-2024,Bali
+L0123,C00123,55,Male,Single,2,Masters,Salaried,12285387,11872582,171409751,Auto,680,12,21.98,11720489,Closed,0,Online,07-09-2024,Jakarta
+L0124,C00124,57,Female,Married,2,Masters,Salaried,26879583,6848829,396240414,Auto,775,24,9.92,10726360,Active,0,Online,12-02-2023,Jakarta
+L0125,C00125,34,Female,Married,0,Bachelors,Freelancer,26277544,11631400,335526176,Personal,774,60,15.22,19310971,Active,0,Branch,05-01-2023,Surabaya
+L0126,C00126,23,Female,Single,2,Masters,Salaried,26085523,4900318,111112230,Personal,791,36,22.57,2041431,Active,0,Partner,18-02-2023,Bali
+L0127,C00127,21,Female,Married,0,Bachelors,Salaried,35548096,9836530,96543965,Mortgage,701,48,21.03,6600350,Closed,0,Online,17-07-2024,Jakarta
+L0128,C00128,25,Male,Married,3,Bachelors,Salaried,42999342,7970043,115905325,Auto,750,12,16.31,4494029,Delinquent,1,Online,05-07-2025,Bali
+L0129,C00129,46,Male,Married,2,High School,Freelancer,5731636,8521722,82881828,Personal,690,24,20.35,9830645,Active,0,Partner,14-10-2024,Jakarta
+L0130,C00130,34,Male,Single,1,Bachelors,Salaried,51697529,11342326,473255666,Personal,679,60,16.36,13611277,Active,0,Online,28-04-2023,Bandung
+L0131,C00131,59,Male,Married,2,High School,Salaried,45035525,4685942,376647515,BNPL,748,48,10.53,6518213,Active,0,Online,23-04-2025,Surabaya
+L0132,C00132,47,Female,Single,2,Bachelors,Salaried,56017938,6849221,166639163,Mortgage,661,36,10,4677264,Delinquent,0,Partner,10-05-2023,Jakarta
+L0133,C00133,29,Male,Single,0,Masters,Self-Employed,15149777,10276325,201504414,Personal,676,72,11.01,12538705,Active,0,Branch,27-09-2024,Medan
+L0134,C00134,35,Male,Divorced,2,High School,Contract,12553925,9072684,21296266,Personal,570,60,13.61,3554131,Closed,1,Partner,28-09-2024,Jakarta
+L0135,C00135,35,Female,Single,1,High School,Salaried,36209516,5583161,87575510,Personal,696,72,22.89,2884624,Active,0,Online,10-09-2022,Bandung
+L0136,C00136,46,Male,Married,0,High School,Freelancer,41771094,3968178,43408376,Education,638,36,20.79,8787727,Active,0,Agent,28-10-2022,Medan
+L0137,C00137,62,Male,Single,0,Masters,Freelancer,40919257,139133,70191873,Auto,596,24,14.92,11851623,Delinquent,0,Agent,25-05-2023,Medan
+L0138,C00138,33,Male,Married,3,Bachelors,Freelancer,34088204,3809697,337978983,Auto,699,48,15.89,19383135,Closed,1,Online,26-10-2023,Jakarta
+L0139,C00139,52,Male,Single,3,Bachelors,Self-Employed,15842502,7637547,297154792,Auto,752,48,12.25,11445675,Closed,1,Online,22-02-2024,Bandung
+L0140,C00140,59,Male,Divorced,2,Masters,Self-Employed,51894926,12928077,71731354,Personal,710,12,19.27,15010312,Active,0,Agent,10-07-2023,Medan
+L0141,C00141,52,Male,Married,3,Masters,Salaried,7180139,9851205,255959394,BNPL,709,48,20.84,9658202,Delinquent,0,Branch,30-07-2025,Surabaya
+L0142,C00142,24,Female,Single,3,Bachelors,Self-Employed,8719194,270001,222655105,Auto,741,12,11.82,1050272,Active,0,Branch,04-01-2023,Surabaya
+L0143,C00143,50,Female,Single,3,Bachelors,Salaried,41838169,14298468,185866726,Personal,634,36,8.67,10442494,Delinquent,1,Branch,22-11-2022,Bali
+L0144,C00144,57,Male,Single,0,Masters,Self-Employed,6432672,14163953,436741860,Personal,716,24,17.98,14663305,Active,0,Partner,05-12-2022,Bali
+L0145,C00145,43,Male,Married,0,Bachelors,Salaried,55895822,4617631,322061460,Auto,677,48,17,9874768,Active,0,Partner,04-05-2025,Bandung
+L0146,C00146,59,Female,Single,0,High School,Self-Employed,56954211,11786178,403739321,Education,761,24,14.43,14556195,Active,0,Online,20-10-2024,Medan
+L0147,C00147,35,Male,Married,3,Masters,Freelancer,36009388,1399298,67042308,Personal,621,60,18.3,18517392,Active,0,Online,17-03-2023,Surabaya
+L0148,C00148,63,Male,Married,0,Bachelors,Salaried,44412278,4147413,346366259,BNPL,591,36,16.81,5276945,Active,0,Partner,20-08-2024,Surabaya
+L0149,C00149,49,Male,Single,3,High School,Freelancer,11841023,5857109,190454316,Mortgage,778,48,12.01,15370931,Delinquent,1,Partner,29-07-2023,Bandung
+L0150,C00150,56,Female,Married,0,Bachelors,Salaried,32694298,782409,131078100,Personal,558,72,14.36,2588321,Closed,0,Branch,15-02-2024,Medan
+L0151,C00151,33,Male,Married,0,High School,Freelancer,49150968,7876146,373195228,Personal,574,48,14.85,19916679,Restructured,0,Agent,01-06-2023,Bandung
+L0152,C00152,52,Female,Single,1,High School,Salaried,17160068,10106434,390990483,Personal,766,72,22.08,8491990,Active,0,Partner,27-11-2024,Jakarta
+L0153,C00153,27,Male,Single,2,Masters,Salaried,7465596,10830332,302683068,Mortgage,774,12,23.37,8810360,Active,1,Online,26-02-2023,Surabaya
+L0154,C00154,42,Female,Single,3,High School,Freelancer,20842433,13233244,320153253,Personal,551,24,22.29,2492669,Delinquent,1,Partner,23-11-2024,Bandung
+L0155,C00155,48,Female,Married,1,Bachelors,Salaried,9405113,713391,191813907,Personal,568,12,19.51,17551253,Active,0,Branch,23-03-2025,Bandung
+L0156,C00156,22,Male,Married,0,Bachelors,Freelancer,39968399,5755536,265272945,Auto,787,24,17.36,15549939,Active,1,Online,13-02-2023,Jakarta
+L0157,C00157,62,Female,Married,3,High School,Salaried,58719638,13088262,12500120,Mortgage,569,60,19.03,11878998,Delinquent,0,Online,22-02-2024,Bali
+L0158,C00158,26,Male,Married,0,PhD,Salaried,51670629,337164,23831553,Personal,783,12,23.03,18564776,Active,0,Partner,09-01-2025,Surabaya
+L0159,C00159,48,Female,Married,2,High School,Salaried,33417654,7869815,76758264,Auto,782,36,12,15235298,Active,0,Agent,21-10-2024,Bandung
+L0160,C00160,48,Male,Married,1,Bachelors,Salaried,43620879,11562817,75063839,Auto,783,36,16.56,3146081,Delinquent,1,Online,25-05-2024,Surabaya
+L0161,C00161,64,Male,Married,2,Bachelors,Salaried,46272653,2763779,375896729,Auto,770,36,19.03,16286048,Active,1,Online,27-04-2025,Bali
+L0162,C00162,64,Female,Single,1,High School,Salaried,45411036,2858214,483694661,BNPL,619,36,18.87,7668845,Delinquent,0,Branch,07-12-2023,Bandung
+L0163,C00163,40,Male,Single,0,High School,Salaried,15071586,2234967,325434664,Personal,566,48,12.04,6862316,Active,0,Partner,14-08-2025,Jakarta
+L0164,C00164,50,Male,Single,2,Masters,Salaried,16462734,2020880,114718328,BNPL,673,12,17.39,16488221,Closed,0,Partner,06-03-2024,Surabaya
+L0165,C00165,31,Female,Single,2,PhD,Contract,20317570,6919219,307358658,Mortgage,638,24,20.73,6577558,Active,1,Branch,07-10-2023,Jakarta
+L0166,C00166,48,Male,Married,0,High School,Contract,24396438,11189893,109887840,Auto,779,48,15.6,4447822,Closed,0,Branch,22-03-2024,Bali
+L0167,C00167,45,Male,Divorced,2,Bachelors,Salaried,40490204,10804946,166876288,Mortgage,745,48,20.69,1083576,Active,0,Online,09-05-2023,Bali
+L0168,C00168,59,Female,Single,3,Masters,Self-Employed,28175713,4243780,213522866,Auto,643,36,13.76,3117709,Delinquent,0,Branch,09-11-2022,Surabaya
+L0169,C00169,53,Female,Single,1,Masters,Salaried,59900320,3893193,482191748,Personal,633,60,23.02,12031873,Active,0,Online,09-09-2022,Bali
+L0170,C00170,21,Male,Married,1,Bachelors,Self-Employed,7422952,14970760,388108818,Mortgage,680,36,16.54,5174865,Active,0,Partner,16-06-2025,Medan
+L0171,C00171,47,Male,Divorced,1,Bachelors,Freelancer,53950934,11206362,495830539,Auto,636,36,17.54,14820357,Closed,0,Online,12-11-2023,Surabaya
+L0172,C00172,33,Female,Single,3,Bachelors,Freelancer,53716358,5681868,472904879,Mortgage,600,12,8.5,9011194,Active,0,Branch,04-08-2024,Medan
+L0173,C00173,61,Female,Married,1,Masters,Salaried,58553666,14592722,148314648,Personal,631,36,10.72,2977247,Active,1,Online,25-03-2024,Bali
+L0174,C00174,23,Male,Single,0,Masters,Self-Employed,6861663,11170068,369879480,Education,703,48,18.13,19392487,Active,0,Branch,09-02-2024,Surabaya
+L0175,C00175,59,Female,Single,2,High School,Salaried,43918430,1255959,385114098,Auto,733,12,14.72,12654619,Active,1,Online,15-06-2025,Medan
+L0176,C00176,26,Male,Divorced,3,Bachelors,Contract,53933457,12652005,87571362,Personal,777,24,16.13,15305743,Active,0,Online,21-11-2024,Bali
+L0177,C00177,28,Male,Divorced,1,Masters,Salaried,14440298,2113687,88879051,Auto,741,48,9.01,1178982,Active,0,Online,13-11-2023,Bandung
+L0178,C00178,47,Male,Single,0,Masters,Self-Employed,33075910,6620090,63833309,Mortgage,557,36,21.35,13451797,Active,0,Partner,18-09-2024,Bandung
+L0179,C00179,29,Male,Divorced,2,PhD,Self-Employed,38604200,1619426,323096452,Mortgage,758,24,20.55,12406718,Closed,0,Online,18-08-2025,Jakarta
+L0180,C00180,57,Male,Married,2,Masters,Self-Employed,33621824,14012674,374775393,Auto,772,48,10.97,8981806,Active,0,Partner,07-12-2023,Bandung
+L0181,C00181,53,Female,Married,3,Bachelors,Salaried,10167373,12839235,17872277,BNPL,714,24,18.15,4494412,Active,0,Branch,18-07-2024,Medan
+L0182,C00182,62,Female,Married,3,Bachelors,Freelancer,50721311,14507000,79713766,Personal,786,60,21.09,4640503,Restructured,0,Branch,21-02-2025,Bandung
+L0183,C00183,64,Female,Married,3,Bachelors,Salaried,24040773,10744676,23739212,Auto,670,12,18.25,6981377,Delinquent,0,Branch,10-07-2024,Surabaya
+L0184,C00184,44,Female,Married,0,High School,Self-Employed,57431974,7005351,144615736,BNPL,774,48,12.97,14026765,Active,0,Agent,17-02-2023,Surabaya
+L0185,C00185,35,Male,Married,0,Bachelors,Salaried,47060809,7570095,240611630,BNPL,704,36,18.5,10215003,Active,0,Online,22-08-2024,Surabaya
+L0186,C00186,52,Male,Single,3,Masters,Salaried,38851974,2138421,301293570,Mortgage,722,60,11.37,6643846,Delinquent,0,Online,17-08-2023,Bandung
+L0187,C00187,52,Male,Single,1,High School,Salaried,57857945,13712162,456450484,BNPL,553,12,13.09,12285878,Active,0,Agent,10-09-2024,Bandung
+L0188,C00188,44,Male,Single,2,Masters,Salaried,16669729,5023198,265207891,Personal,635,48,11.84,2672675,Active,0,Online,14-12-2022,Jakarta
+L0189,C00189,61,Female,Married,2,Bachelors,Salaried,10628573,9309239,18029598,BNPL,677,36,16.91,9897515,Active,1,Partner,18-07-2024,Bali
+L0190,C00190,32,Male,Single,0,PhD,Salaried,13091363,8673899,360187588,Personal,767,36,9.73,1932280,Closed,0,Online,16-07-2023,Jakarta
+L0191,C00191,59,Male,Married,2,High School,Salaried,26738388,10924504,353412183,Personal,773,36,22.93,9766365,Active,0,Branch,01-02-2025,Medan
+L0192,C00192,22,Female,Divorced,1,High School,Self-Employed,35595197,1649959,482558695,Personal,765,48,13.34,3809939,Closed,0,Online,14-02-2023,Surabaya
+L0193,C00193,23,Female,Single,2,Bachelors,Freelancer,37054203,7059916,24927605,Auto,659,60,11.5,12595422,Closed,0,Agent,29-01-2025,Bandung
+L0194,C00194,57,Female,Married,0,High School,Salaried,36218896,12258627,42086215,Personal,648,12,15.94,12789830,Active,0,Branch,18-06-2025,Bali
+L0195,C00195,37,Female,Married,0,Masters,Salaried,22706080,2188077,99688279,Personal,586,12,12.43,3606041,Delinquent,1,Online,13-09-2023,Bali
+L0196,C00196,22,Male,Married,1,Masters,Salaried,44462985,4784973,211500593,Personal,773,60,16.56,3375093,Active,0,Online,12-08-2024,Bandung
+L0197,C00197,22,Male,Single,1,High School,Salaried,18350078,3769484,200120147,Personal,620,12,13.58,5165767,Active,0,Online,05-06-2023,Jakarta
+L0198,C00198,48,Female,Married,2,Bachelors,Self-Employed,11508526,1290906,208631931,Auto,582,72,10.11,12801782,Active,0,Partner,07-03-2025,Bali
+L0199,C00199,43,Male,Married,2,Bachelors,Self-Employed,17981929,13645219,289238671,Auto,580,48,12.25,3553540,Active,0,Online,01-01-2024,Jakarta
+L0200,C00200,57,Male,Divorced,0,Bachelors,Salaried,13140594,1435367,394284145,Personal,732,48,15.02,13714892,Active,0,Online,12-03-2024,Bandung
+L0201,C00201,52,Male,Married,1,Masters,Salaried,14320383,8312048,55849459,Mortgage,674,24,8.48,4619603,Active,0,Branch,21-04-2024,Jakarta
+L0202,C00202,53,Female,Married,1,Masters,Salaried,52595211,9929058,194615243,BNPL,561,24,20.33,15956447,Active,0,Branch,14-06-2023,Surabaya
+L0203,C00203,21,Male,Married,1,Bachelors,Freelancer,35904375,12109648,211415372,Mortgage,560,48,17.95,12490235,Active,0,Online,17-10-2023,Bandung
+L0204,C00204,39,Female,Married,2,Masters,Contract,41020943,10078184,453604844,Personal,637,60,17.62,16698458,Active,0,Online,07-04-2025,Bandung
+L0205,C00205,22,Male,Married,1,Bachelors,Salaried,41850216,3246849,12695145,Mortgage,621,72,16.74,14673591,Closed,0,Partner,22-12-2022,Bali
+L0206,C00206,64,Male,Single,0,Masters,Salaried,49914719,8654584,465926310,Personal,581,24,17.45,6719347,Active,0,Agent,20-08-2023,Bali
+L0207,C00207,46,Male,Divorced,0,Bachelors,Freelancer,18430286,1605196,388361432,Personal,606,12,22.95,4234499,Closed,0,Online,12-09-2022,Bali
+L0208,C00208,52,Female,Married,2,Masters,Freelancer,44989821,12595379,436222509,Personal,715,12,8.14,16854868,Active,0,Partner,17-01-2025,Surabaya
+L0209,C00209,26,Male,Married,3,Masters,Salaried,54382042,13672513,192728959,BNPL,737,60,8.76,4975220,Active,0,Online,11-11-2024,Surabaya
+L0210,C00210,52,Female,Single,2,High School,Salaried,45976667,5387059,399643231,Personal,635,24,11.06,11352047,Active,0,Online,18-08-2025,Medan
+L0211,C00211,24,Female,Married,3,Masters,Salaried,9134608,1045851,72570237,Personal,775,12,10.68,13853716,Active,0,Branch,01-01-2025,Bandung
+L0212,C00212,31,Female,Single,1,High School,Salaried,29309567,8466602,64526679,Personal,568,24,10.9,11969851,Active,1,Online,28-07-2024,Bali
+L0213,C00213,37,Male,Married,2,Bachelors,Salaried,6248749,12677114,349628911,BNPL,665,24,18.75,13723600,Active,0,Branch,10-04-2025,Bandung
+L0214,C00214,58,Male,Single,0,Bachelors,Salaried,15987706,2664921,321397547,Mortgage,761,72,15.35,10616994,Restructured,0,Partner,19-11-2024,Jakarta
+L0215,C00215,44,Male,Married,1,PhD,Salaried,22453553,11930133,26761480,Personal,733,36,23.87,5473391,Restructured,0,Agent,23-08-2023,Surabaya
+L0216,C00216,25,Male,Divorced,0,Masters,Salaried,21172473,14230894,447621735,Auto,563,24,11.63,14672213,Active,0,Online,09-12-2022,Medan
+L0217,C00217,54,Female,Single,1,Masters,Self-Employed,40577985,1434730,418008177,Auto,582,24,12.97,7074746,Closed,1,Online,08-03-2023,Jakarta
+L0218,C00218,26,Female,Divorced,2,Masters,Salaried,18849214,13027766,78377046,Mortgage,559,24,23.75,11309367,Active,0,Agent,13-06-2025,Bandung
+L0219,C00219,42,Female,Married,3,Bachelors,Salaried,7096419,12182338,444503039,Personal,629,12,21.31,3631550,Active,0,Online,16-05-2023,Surabaya
+L0220,C00220,31,Male,Married,1,Masters,Salaried,12166065,4071650,378634555,BNPL,741,12,15.52,11984624,Closed,0,Branch,14-09-2024,Bali
+L0221,C00221,36,Female,Married,3,Bachelors,Salaried,42297350,4354489,465555578,Personal,613,48,16.87,19830387,Active,0,Online,07-08-2025,Jakarta
+L0222,C00222,53,Male,Married,1,Bachelors,Contract,34452300,14764427,129692255,Mortgage,739,12,21.49,4487104,Active,0,Online,30-07-2025,Surabaya
+L0223,C00223,29,Female,Married,0,High School,Salaried,55875992,1958615,177134193,Personal,617,24,15.7,1709441,Active,0,Online,20-12-2023,Bandung
+L0224,C00224,26,Male,Married,0,Masters,Salaried,56518678,6502483,318184590,Personal,768,36,11.3,4852312,Active,0,Partner,09-08-2023,Bandung
+L0225,C00225,36,Male,Married,1,Masters,Self-Employed,31270139,978534,476821923,Personal,641,48,21.26,15021057,Active,0,Partner,17-10-2024,Jakarta
+L0226,C00226,49,Female,Single,3,Bachelors,Salaried,46762581,12856870,425068144,Auto,674,36,16.6,4987400,Active,0,Online,18-11-2024,Jakarta
+L0227,C00227,23,Female,Married,2,High School,Freelancer,46991679,7701516,70996414,Personal,720,48,10.45,1993477,Active,1,Partner,12-04-2025,Jakarta
+L0228,C00228,40,Female,Married,2,Masters,Salaried,15938814,10757928,113783748,Mortgage,629,36,16.09,11828893,Active,0,Online,31-08-2024,Medan
+L0229,C00229,56,Female,Married,0,High School,Salaried,20467488,12252984,485377877,Personal,608,48,14.61,5274098,Closed,0,Online,19-06-2023,Bali
+L0230,C00230,39,Male,Married,2,Masters,Salaried,47539722,9284276,310891343,Mortgage,729,12,22.03,11025396,Active,0,Partner,19-02-2025,Surabaya
+L0231,C00231,46,Female,Married,0,PhD,Salaried,43078537,11067884,390793000,BNPL,646,60,10.02,14207054,Closed,0,Branch,02-08-2024,Bandung
+L0232,C00232,23,Female,Married,2,Bachelors,Freelancer,33076568,1318155,66479049,Auto,789,12,22,10172934,Closed,0,Online,09-12-2022,Bandung
+L0233,C00233,39,Female,Single,1,High School,Freelancer,6880164,984588,234408529,Mortgage,568,36,16.2,3462282,Closed,0,Online,24-12-2022,Bali
+L0234,C00234,40,Male,Married,0,Masters,Salaried,9376751,4449399,17738672,Mortgage,698,48,14.47,8059559,Closed,0,Agent,07-04-2025,Jakarta
+L0235,C00235,52,Male,Single,0,Masters,Salaried,32611562,4002761,53405457,Personal,571,36,10.59,10258789,Active,0,Partner,24-11-2024,Jakarta
+L0236,C00236,27,Female,Single,1,Bachelors,Freelancer,43423668,481632,194185347,BNPL,558,60,19.21,5427431,Active,0,Partner,18-03-2024,Bandung
+L0237,C00237,61,Male,Single,0,PhD,Freelancer,55711717,9698360,411902681,Personal,558,36,22.83,5184001,Active,1,Online,20-05-2023,Bali
+L0238,C00238,53,Female,Single,2,High School,Salaried,15547628,7723047,201164868,Auto,750,60,14.01,8519270,Restructured,0,Partner,16-03-2025,Bandung
+L0239,C00239,60,Male,Married,2,Bachelors,Salaried,33081575,6541173,19064507,Mortgage,576,60,11.87,2904400,Active,0,Online,26-09-2022,Jakarta
+L0240,C00240,59,Male,Single,0,Masters,Salaried,21888173,7998799,178090934,Personal,566,72,16.88,5122758,Active,1,Agent,05-02-2024,Surabaya
+L0241,C00241,38,Male,Married,2,Masters,Freelancer,9734071,12419711,235665551,Personal,721,60,20.74,2847669,Active,0,Online,16-06-2023,Jakarta
+L0242,C00242,60,Male,Single,3,High School,Salaried,59645344,5275820,337642338,Auto,798,60,8.06,12196355,Restructured,0,Online,17-04-2025,Surabaya
+L0243,C00243,21,Female,Single,0,Masters,Salaried,54969808,8918562,164018815,BNPL,594,48,18.1,13027950,Active,0,Branch,20-10-2022,Medan
+L0244,C00244,31,Female,Single,1,Bachelors,Self-Employed,24654884,7639298,333616721,Education,557,36,17.54,5213720,Active,0,Partner,01-12-2024,Bali
+L0245,C00245,48,Female,Single,3,Bachelors,Salaried,27221624,12439415,346156188,Auto,757,12,13.09,15693736,Active,0,Partner,27-06-2025,Medan
+L0246,C00246,45,Male,Married,0,High School,Salaried,30971841,7496196,48088342,Mortgage,695,48,15.22,1476684,Restructured,0,Online,17-01-2023,Jakarta
+L0247,C00247,43,Female,Married,1,Masters,Salaried,33546399,11401945,453136756,Education,674,72,11.95,19686319,Active,0,Branch,22-08-2025,Bali
+L0248,C00248,51,Female,Married,2,High School,Salaried,52998971,5104138,464392589,Personal,672,48,20.64,19874432,Active,0,Partner,12-09-2022,Jakarta
+L0249,C00249,50,Female,Married,1,Bachelors,Salaried,51403208,14886781,359271118,Personal,582,60,18.15,13651747,Closed,1,Online,05-06-2023,Bali
+L0250,C00250,62,Male,Single,3,High School,Salaried,22972560,9800518,36370480,Mortgage,550,60,16.52,2250033,Active,0,Partner,02-04-2024,Bali
+L0251,C00251,55,Male,Married,2,Masters,Salaried,14073936,9799796,349001120,BNPL,753,24,14.28,2452847,Delinquent,1,Agent,29-08-2023,Jakarta
+L0252,C00252,27,Male,Married,0,Bachelors,Salaried,28384180,12449975,287562520,BNPL,555,24,12.66,7189811,Active,1,Online,12-09-2022,Jakarta
+L0253,C00253,36,Female,Married,2,Masters,Freelancer,38970993,26505,296351124,Auto,590,24,21.16,7149620,Active,0,Online,28-03-2025,Bali
+L0254,C00254,46,Female,Single,0,High School,Self-Employed,59577519,12095337,272693264,Personal,732,24,15.22,14434010,Delinquent,1,Online,24-05-2025,Bali
+L0255,C00255,22,Female,Single,0,Bachelors,Salaried,19771293,13412513,437539734,Auto,554,36,16.02,12390486,Restructured,0,Online,18-08-2023,Jakarta
+L0256,C00256,21,Male,Single,1,Bachelors,Salaried,16464871,13835842,68058808,Personal,736,72,16.33,18950506,Active,1,Branch,21-04-2024,Jakarta
+L0257,C00257,32,Male,Single,1,Masters,Salaried,54695673,1650375,488833642,Personal,629,48,15.17,1965730,Active,0,Partner,15-03-2025,Bandung
+L0258,C00258,25,Female,Married,1,Masters,Salaried,35885578,10264138,333321808,Mortgage,567,36,12.1,4701351,Delinquent,0,Branch,22-09-2022,Bandung
+L0259,C00259,57,Male,Married,3,High School,Salaried,30101652,212204,476979001,Personal,726,12,9.93,4196275,Active,0,Online,14-04-2025,Bandung
+L0260,C00260,52,Male,Married,3,Bachelors,Self-Employed,31935185,14929900,163282957,BNPL,631,24,9.58,5939113,Delinquent,0,Branch,17-04-2023,Medan
+L0261,C00261,29,Male,Married,1,High School,Salaried,45710838,7050305,135702748,Auto,614,36,20.12,15516676,Delinquent,1,Branch,09-08-2024,Bali
+L0262,C00262,61,Male,Married,3,Bachelors,Salaried,9801436,8916776,92422547,Auto,632,24,11.58,5467443,Active,1,Agent,03-06-2023,Surabaya
+L0263,C00263,55,Female,Married,2,High School,Salaried,35572695,973215,372477725,Personal,731,12,8.89,9838312,Restructured,0,Online,01-09-2024,Medan
+L0264,C00264,39,Male,Divorced,2,Bachelors,Self-Employed,17149321,567827,431779218,Personal,738,36,20.76,18828423,Active,1,Branch,18-03-2024,Bali
+L0265,C00265,36,Male,Single,3,Bachelors,Salaried,19212972,10725816,211268916,Personal,685,24,10.46,17914255,Closed,0,Agent,10-08-2024,Surabaya
+L0266,C00266,23,Male,Single,3,Bachelors,Self-Employed,11931344,8325857,400698423,Education,680,60,18,14457638,Active,0,Branch,02-12-2024,Bandung
+L0267,C00267,40,Male,Single,2,Bachelors,Salaried,39179345,1267633,426193100,BNPL,799,12,13.42,8689454,Delinquent,0,Online,31-10-2022,Surabaya
+L0268,C00268,44,Female,Married,0,Masters,Freelancer,48464233,3684815,248225873,Auto,574,12,10.02,7590716,Closed,0,Online,08-11-2022,Jakarta
+L0269,C00269,53,Female,Married,2,Bachelors,Freelancer,47861039,13090712,390582333,Personal,799,12,14.63,19704340,Closed,0,Partner,16-10-2022,Jakarta
+L0270,C00270,44,Male,Single,2,High School,Salaried,24705555,13736331,425688429,Education,618,24,8.24,14266341,Delinquent,0,Online,06-04-2024,Bali
+L0271,C00271,31,Male,Divorced,3,Masters,Salaried,48976804,2026182,248082848,Personal,732,48,21.46,6330222,Active,0,Agent,24-07-2024,Medan
+L0272,C00272,28,Male,Single,2,High School,Salaried,29150572,4638246,361936230,Personal,717,48,16.22,7305863,Active,0,Partner,27-11-2023,Bandung
+L0273,C00273,56,Male,Divorced,3,Bachelors,Salaried,59577224,8437392,242734183,Auto,760,36,10.23,1321345,Delinquent,0,Online,10-10-2023,Bali
+L0274,C00274,58,Male,Single,3,Bachelors,Self-Employed,47192304,8377900,132492433,Education,631,48,11.79,1866525,Closed,0,Branch,22-12-2024,Bandung
+L0275,C00275,60,Male,Single,1,Bachelors,Freelancer,28756956,2210186,387537608,Personal,727,36,15.17,1447564,Delinquent,0,Online,30-05-2025,Jakarta
+L0276,C00276,40,Female,Married,2,High School,Self-Employed,50949662,14592325,367770144,Personal,666,48,11.02,13076502,Delinquent,1,Online,20-07-2025,Medan
+L0277,C00277,55,Male,Single,0,Bachelors,Freelancer,21480387,2531196,265723423,Education,644,12,12.3,10885820,Active,1,Partner,13-09-2023,Medan
+L0278,C00278,45,Female,Single,1,Masters,Salaried,13625146,14356374,444055093,Personal,582,36,16.55,11980068,Active,0,Branch,13-08-2023,Jakarta
+L0279,C00279,55,Female,Single,3,Bachelors,Salaried,20259027,3200090,322555536,Personal,660,48,21.32,10660243,Active,0,Online,03-04-2024,Surabaya
+L0280,C00280,45,Male,Married,3,Bachelors,Self-Employed,26486967,53997,193707154,Auto,695,60,14.43,13101792,Closed,1,Partner,10-05-2025,Medan
+L0281,C00281,49,Female,Married,0,Bachelors,Salaried,20802231,10478661,496779610,BNPL,674,48,19.47,10687580,Active,0,Online,10-12-2023,Surabaya
+L0282,C00282,38,Female,Single,3,High School,Self-Employed,8609134,4375717,153225157,Auto,734,24,22.03,11802766,Closed,0,Branch,10-03-2023,Bandung
+L0283,C00283,38,Female,Married,2,Bachelors,Salaried,30319530,14043777,198785634,Education,780,24,11.46,8290985,Active,0,Branch,11-07-2025,Medan
+L0284,C00284,22,Female,Married,1,Masters,Salaried,37800363,5607423,459142391,Mortgage,565,72,20.92,17805220,Active,0,Online,04-11-2022,Jakarta
+L0285,C00285,55,Female,Single,3,High School,Contract,16729160,9189589,488814820,Personal,629,12,20.12,18584119,Active,0,Agent,15-02-2024,Surabaya
+L0286,C00286,36,Female,Married,3,High School,Salaried,11630604,14632787,129237153,Education,788,24,13.71,1524252,Active,0,Branch,14-05-2023,Bandung
+L0287,C00287,61,Male,Single,0,High School,Contract,35334030,2940504,370972883,Auto,587,12,23.83,12101868,Closed,0,Branch,17-02-2023,Bandung
+L0288,C00288,56,Female,Single,2,Bachelors,Contract,56158798,4934990,256707096,Personal,718,24,12.2,4336967,Active,0,Branch,24-07-2025,Medan
+L0289,C00289,53,Female,Married,3,PhD,Self-Employed,40341284,14100219,468792643,Auto,684,24,12.08,13160853,Active,1,Online,28-07-2024,Medan
+L0290,C00290,24,Female,Single,0,High School,Self-Employed,45931858,9850716,453802441,Personal,627,36,20.36,19171905,Active,0,Online,08-05-2024,Bali
+L0291,C00291,53,Male,Married,3,Bachelors,Salaried,43587225,14837319,498961225,Personal,784,36,14.95,16743208,Closed,0,Branch,26-07-2023,Bali
+L0292,C00292,34,Female,Married,0,High School,Freelancer,17925465,13463204,109504471,Personal,730,60,13.29,2028464,Delinquent,0,Agent,30-04-2024,Medan
+L0293,C00293,41,Male,Single,0,PhD,Salaried,13139480,13131824,329035220,Auto,612,12,10.86,6776634,Active,0,Partner,26-11-2022,Bali
+L0294,C00294,40,Female,Married,2,High School,Salaried,21819353,8057907,466408586,BNPL,661,24,20.25,8180096,Closed,1,Online,02-05-2024,Jakarta
+L0295,C00295,28,Male,Single,3,Bachelors,Self-Employed,55470573,5721877,246651354,Auto,638,36,20.58,17923755,Active,0,Branch,30-07-2023,Jakarta
+L0296,C00296,27,Male,Divorced,2,Masters,Salaried,41188251,8959601,132099087,Education,709,48,17.07,11633508,Active,1,Online,17-10-2022,Bali
+L0297,C00297,23,Female,Married,0,Masters,Salaried,36578449,5856494,198374233,Personal,587,36,23.32,14726279,Closed,0,Online,09-10-2024,Medan
+L0298,C00298,37,Female,Married,1,Bachelors,Salaried,10412319,7760004,205584444,Personal,699,60,13.09,5881178,Active,0,Branch,11-05-2025,Jakarta
+L0299,C00299,53,Male,Married,3,Bachelors,Salaried,25072116,13429734,377961852,Personal,693,12,11.51,12612037,Closed,0,Branch,12-10-2024,Bandung
+L0300,C00300,32,Female,Single,1,Bachelors,Freelancer,17184706,14748433,320743261,Personal,601,60,18.84,11714924,Active,0,Online,10-05-2025,Medan
+L0301,C00301,42,Male,Married,3,High School,Salaried,38929665,9639077,255190014,Personal,578,36,20.13,15160636,Restructured,1,Branch,03-06-2023,Surabaya
+L0302,C00302,42,Male,Divorced,2,High School,Freelancer,52118304,13903221,377046512,Mortgage,693,12,11.6,15137408,Active,0,Partner,21-10-2024,Surabaya
+L0303,C00303,50,Male,Married,2,Bachelors,Self-Employed,19166825,14268788,161007823,Education,625,60,9.23,6567768,Active,0,Online,25-10-2023,Medan
+L0304,C00304,58,Male,Married,2,High School,Freelancer,33705554,12465956,287382150,Education,694,48,20.97,5874010,Delinquent,1,Partner,12-12-2022,Bali
+L0305,C00305,58,Male,Married,2,High School,Salaried,32726096,6102493,324156303,Personal,778,24,23.62,2170025,Active,0,Online,19-03-2024,Jakarta
+L0306,C00306,28,Female,Single,2,Bachelors,Self-Employed,15123243,13283058,19920226,BNPL,613,12,18.31,14183900,Active,1,Branch,22-03-2025,Jakarta
+L0307,C00307,47,Male,Single,1,PhD,Salaried,57289440,10562185,199445113,Personal,640,12,12.45,3031722,Active,0,Partner,16-09-2022,Medan
+L0308,C00308,47,Male,Married,2,Bachelors,Freelancer,43582859,14579278,183352975,Personal,638,48,23.95,5631813,Active,0,Branch,01-09-2025,Bandung
+L0309,C00309,54,Female,Married,0,High School,Salaried,32320962,2593449,232102951,BNPL,562,24,22.29,10105304,Active,0,Agent,24-11-2023,Bali
+L0310,C00310,41,Male,Married,0,High School,Freelancer,55763626,9977466,362233469,Mortgage,621,24,16.21,17424403,Active,0,Online,18-07-2023,Bandung
+L0311,C00311,50,Female,Divorced,1,PhD,Contract,25279862,1018543,467667083,Personal,733,12,21.21,1263369,Closed,0,Branch,04-07-2025,Medan
+L0312,C00312,53,Female,Single,3,High School,Salaried,25669081,12694827,218276258,Auto,554,48,21.05,14364520,Active,0,Branch,09-01-2023,Medan
+L0313,C00313,48,Female,Single,0,High School,Salaried,21665954,8773713,320537968,Personal,561,60,22.96,19367359,Closed,0,Branch,29-10-2022,Bandung
+L0314,C00314,53,Male,Married,3,Bachelors,Self-Employed,10983943,6774870,213417620,Mortgage,718,48,21.45,8450433,Active,0,Partner,27-12-2023,Surabaya
+L0315,C00315,25,Male,Single,1,Bachelors,Salaried,59482227,13736160,398771505,Auto,552,12,18.3,16955441,Active,0,Partner,27-01-2024,Medan
+L0316,C00316,39,Male,Married,3,Bachelors,Freelancer,48096931,7104527,348272170,Education,776,60,17.75,10160276,Active,1,Partner,25-06-2025,Bali
+L0317,C00317,24,Female,Married,3,High School,Salaried,19999412,11813685,20086627,Personal,582,48,15.48,13506080,Active,0,Online,24-12-2024,Bandung
+L0318,C00318,55,Male,Married,3,High School,Salaried,37788085,12901733,130740847,Personal,670,60,18.02,19329367,Active,0,Online,05-12-2023,Surabaya
+L0319,C00319,37,Female,Single,3,PhD,Contract,52653933,4227234,45333904,Auto,763,36,20.72,7121716,Active,0,Branch,18-07-2025,Bandung
+L0320,C00320,64,Male,Married,1,High School,Self-Employed,36148333,1121889,265272223,Auto,599,36,23.5,17946475,Active,0,Branch,10-03-2023,Surabaya
+L0321,C00321,48,Female,Married,0,Bachelors,Freelancer,40314575,9137819,365471319,Personal,733,48,15.48,3407777,Active,1,Agent,26-05-2023,Surabaya
+L0322,C00322,50,Male,Married,2,Masters,Salaried,47168727,3258881,121449370,Mortgage,785,12,17.18,10481736,Active,0,Online,24-11-2022,Bali
+L0323,C00323,49,Male,Single,3,Bachelors,Self-Employed,10539004,3631453,50888723,BNPL,686,36,15.12,17976257,Active,1,Online,12-08-2024,Medan
+L0324,C00324,26,Male,Married,0,Bachelors,Salaried,49882741,12339084,465311000,Education,782,60,18.7,6450486,Closed,0,Branch,13-08-2023,Surabaya
+L0325,C00325,55,Female,Married,0,High School,Self-Employed,24019581,10381992,357841601,BNPL,759,60,18.08,9367415,Active,0,Partner,26-02-2023,Medan
+L0326,C00326,61,Female,Single,1,Bachelors,Self-Employed,41316288,6524367,339090696,BNPL,727,72,8.29,17742813,Active,0,Agent,30-01-2023,Bali
+L0327,C00327,57,Male,Single,0,Masters,Salaried,23848304,5338938,372049115,Auto,578,48,16.66,6997845,Active,1,Online,02-11-2022,Medan
+L0328,C00328,44,Male,Single,1,Masters,Salaried,23890264,2185028,177645620,BNPL,588,24,9.42,10118454,Active,1,Online,22-03-2024,Jakarta
+L0329,C00329,49,Female,Married,3,High School,Salaried,53323849,4803958,100837820,Personal,640,12,8.42,8896419,Active,0,Branch,01-09-2023,Surabaya
+L0330,C00330,51,Female,Married,3,High School,Self-Employed,5029813,8926299,493441573,Personal,649,36,20.66,2813318,Delinquent,1,Online,04-06-2025,Bali
+L0331,C00331,55,Female,Married,2,Masters,Salaried,13079823,3487924,198690690,Personal,722,36,12.14,11822700,Closed,0,Agent,07-08-2023,Bandung
+L0332,C00332,53,Male,Single,2,Masters,Self-Employed,58543055,772838,121089605,Auto,566,24,13.45,19610826,Closed,1,Branch,23-08-2025,Bali
+L0333,C00333,41,Female,Single,2,Masters,Salaried,27748359,261420,165005030,Personal,605,12,9.03,12918661,Delinquent,0,Online,19-04-2024,Surabaya
+L0334,C00334,52,Male,Married,0,High School,Self-Employed,52583718,477843,391105120,Education,775,36,10.87,11737811,Active,0,Online,04-03-2025,Bali
+L0335,C00335,43,Female,Married,3,Bachelors,Self-Employed,47216581,4529943,429913270,Personal,595,48,20.25,13499298,Active,0,Online,01-03-2025,Bandung
+L0336,C00336,53,Male,Divorced,1,Masters,Salaried,46850767,10648764,283748736,Personal,616,72,15.9,6344491,Closed,1,Partner,07-02-2024,Jakarta
+L0337,C00337,23,Female,Single,2,Bachelors,Salaried,54582227,4552538,311966436,Auto,746,48,22.09,11019518,Active,1,Online,15-06-2024,Surabaya
+L0338,C00338,38,Female,Married,1,Bachelors,Salaried,28424070,13930333,353508165,Personal,691,48,14.36,5063627,Active,1,Online,28-04-2023,Surabaya
+L0339,C00339,45,Female,Married,1,High School,Self-Employed,6615181,12979513,190718380,Personal,616,48,12.3,3763357,Closed,1,Agent,25-09-2024,Bali
+L0340,C00340,62,Female,Married,2,Bachelors,Freelancer,19895769,1825260,368312878,Personal,572,72,13.56,6934299,Closed,0,Online,06-12-2024,Medan
+L0341,C00341,51,Female,Married,3,High School,Salaried,9034649,10453914,234537038,Auto,780,48,19.4,10455578,Active,1,Partner,27-07-2025,Medan
+L0342,C00342,23,Male,Married,2,Bachelors,Self-Employed,16527501,4775833,386283372,Auto,643,60,16.88,12366185,Active,1,Online,11-08-2024,Bandung
+L0343,C00343,60,Female,Divorced,1,PhD,Salaried,50789382,14745094,450417305,Mortgage,791,60,22.47,12593668,Closed,0,Branch,17-01-2023,Jakarta
+L0344,C00344,44,Female,Single,2,Bachelors,Salaried,6350816,12236201,303348472,Mortgage,786,60,17.63,2216953,Delinquent,0,Online,17-08-2024,Jakarta
+L0345,C00345,52,Female,Single,1,Masters,Freelancer,53286840,4187694,324376077,Auto,738,36,15.89,12576964,Closed,0,Online,05-04-2025,Bali
+L0346,C00346,42,Male,Married,1,High School,Salaried,28544531,9601588,260509817,Personal,700,12,20.57,2528474,Restructured,1,Branch,15-11-2022,Bali
+L0347,C00347,43,Female,Married,2,Bachelors,Salaried,58152706,3099834,261530950,Personal,704,24,23.16,10258011,Active,1,Online,03-01-2025,Medan
+L0348,C00348,22,Male,Single,0,PhD,Salaried,5458819,9644581,450359725,Mortgage,603,12,13.69,16780633,Active,1,Branch,18-04-2024,Jakarta
+L0349,C00349,47,Female,Single,2,High School,Salaried,56539708,6771158,314595710,Personal,687,12,12,8265584,Active,1,Online,24-01-2025,Jakarta
+L0350,C00350,62,Female,Single,0,High School,Salaried,27130585,3564507,429547769,Personal,766,24,17.86,9838889,Active,1,Branch,30-09-2023,Jakarta
+L0351,C00351,22,Male,Married,1,Bachelors,Salaried,22222090,4299489,241431710,Mortgage,626,24,15.98,10295252,Delinquent,0,Agent,31-08-2024,Bandung
+L0352,C00352,46,Female,Single,1,High School,Self-Employed,21221697,3182132,307320407,Auto,565,36,23.83,5673024,Restructured,0,Online,12-11-2023,Bandung
+L0353,C00353,37,Male,Single,0,Masters,Salaried,27462861,12638094,284816314,Personal,590,48,15.4,16186421,Active,0,Online,19-07-2023,Bali
+L0354,C00354,60,Male,Single,1,Masters,Salaried,42483115,3440863,142764638,Personal,647,24,9.19,4154267,Active,0,Partner,23-02-2024,Medan
+L0355,C00355,53,Female,Single,0,Bachelors,Salaried,32274525,14260377,146568604,Education,732,48,23.64,15038009,Active,0,Branch,16-07-2025,Surabaya
+L0356,C00356,29,Male,Single,0,High School,Salaried,16998768,13285935,17031401,BNPL,677,48,21.5,12774646,Delinquent,1,Online,12-05-2023,Medan
+L0357,C00357,63,Female,Married,1,Bachelors,Self-Employed,36483019,13435230,85278047,Mortgage,778,36,10.85,16695184,Active,0,Branch,09-12-2022,Bandung
+L0358,C00358,59,Female,Single,3,Masters,Contract,43556377,7986322,239865744,Auto,610,60,22.47,4456979,Active,0,Online,02-11-2024,Bandung
+L0359,C00359,49,Male,Married,0,High School,Salaried,45477227,6637448,92493325,Auto,635,12,13.45,14532568,Active,0,Online,28-09-2023,Bali
+L0360,C00360,62,Male,Single,2,Bachelors,Freelancer,23831264,11427391,479740963,Education,758,24,14.03,10798983,Active,0,Agent,22-08-2023,Surabaya
+L0361,C00361,46,Male,Married,2,Bachelors,Salaried,22840908,7135580,361922943,Education,764,36,22.5,11276595,Delinquent,0,Partner,12-11-2024,Jakarta
+L0362,C00362,55,Male,Married,1,Bachelors,Salaried,43293069,11759797,314857583,Personal,667,12,16.48,9184477,Active,0,Branch,28-11-2022,Surabaya
+L0363,C00363,45,Female,Married,3,High School,Salaried,14332439,10261116,305349356,BNPL,649,36,10.2,16954637,Active,0,Online,03-04-2023,Surabaya
+L0364,C00364,44,Female,Married,1,Masters,Salaried,42784445,11305977,367668542,Personal,598,36,13.9,14170997,Active,0,Online,21-07-2023,Surabaya
+L0365,C00365,33,Male,Single,3,High School,Salaried,44627361,4802738,445894773,Personal,750,24,19.55,6662110,Active,0,Partner,31-12-2024,Bali
+L0366,C00366,27,Female,Single,0,High School,Self-Employed,50017835,13589542,481412570,Mortgage,729,24,10.79,2318154,Closed,0,Online,15-08-2023,Bandung
+L0367,C00367,56,Female,Married,0,Masters,Salaried,52118996,6779651,15408792,Auto,551,24,17.44,18593676,Active,0,Online,21-12-2024,Jakarta
+L0368,C00368,40,Female,Divorced,0,Masters,Freelancer,17262299,13155197,317231930,Education,773,48,19.12,11553333,Active,0,Online,02-05-2025,Surabaya
+L0369,C00369,21,Female,Married,0,High School,Salaried,34589295,7871490,217386911,Personal,669,36,13.5,3564660,Delinquent,0,Branch,27-05-2024,Jakarta
+L0370,C00370,28,Male,Married,2,High School,Salaried,9051939,144375,158823667,Auto,727,24,19.1,8331426,Active,0,Online,06-07-2024,Surabaya
+L0371,C00371,36,Male,Married,2,High School,Self-Employed,34665191,7673919,202520529,Education,794,12,22.15,6420278,Closed,1,Online,13-01-2023,Bandung
+L0372,C00372,34,Female,Married,1,High School,Salaried,39424385,5713948,19555821,Education,672,12,15.55,5236901,Active,0,Partner,06-03-2024,Jakarta
+L0373,C00373,32,Male,Single,3,High School,Salaried,32749097,4229491,94793233,Personal,635,12,14.13,9058630,Active,0,Branch,27-02-2024,Medan
+L0374,C00374,43,Male,Married,0,High School,Self-Employed,41652488,8060426,180486820,Personal,720,60,12.02,18647886,Closed,0,Online,12-12-2023,Bandung
+L0375,C00375,35,Male,Divorced,0,Bachelors,Freelancer,39268238,5183584,342424985,Mortgage,626,12,17.67,6990026,Delinquent,0,Partner,23-04-2024,Jakarta
+L0376,C00376,48,Female,Single,3,Masters,Self-Employed,28776460,9045861,155607163,Personal,685,48,22.08,2352471,Active,0,Online,28-10-2022,Surabaya
+L0377,C00377,54,Female,Married,3,Bachelors,Self-Employed,35325526,5911993,347467618,Education,608,60,13.19,13669890,Active,0,Branch,12-11-2022,Surabaya
+L0378,C00378,22,Female,Single,1,Bachelors,Self-Employed,59525264,3183818,173419975,Education,742,12,14.34,4425565,Active,0,Branch,01-02-2024,Bandung
+L0379,C00379,52,Male,Married,3,High School,Freelancer,52135997,11468186,74627603,Personal,758,36,14.51,4314497,Active,0,Online,13-02-2023,Bandung
+L0380,C00380,43,Female,Single,0,PhD,Salaried,21258427,1518560,455117621,Personal,561,72,16.97,11842428,Active,0,Online,16-06-2024,Surabaya
+L0381,C00381,42,Female,Married,0,Masters,Salaried,21291969,1894420,212119017,Personal,553,60,11.65,16365416,Closed,0,Partner,18-08-2025,Jakarta
+L0382,C00382,45,Male,Married,0,Masters,Salaried,58770835,7069222,130551509,Education,666,36,21.16,8666001,Active,0,Agent,24-09-2024,Medan
+L0383,C00383,42,Female,Single,0,Masters,Salaried,45228538,7658206,233440338,Personal,754,48,12.73,6635499,Active,1,Branch,22-07-2025,Bali
+L0384,C00384,42,Female,Married,0,Masters,Self-Employed,10216813,541797,341060125,Auto,644,60,19.29,19657630,Active,0,Online,27-03-2023,Bandung
+L0385,C00385,62,Male,Married,1,Bachelors,Self-Employed,32923330,12651565,498106036,Auto,674,24,16.21,9626686,Active,0,Online,19-11-2022,Surabaya
+L0386,C00386,26,Male,Divorced,0,High School,Salaried,39305206,9080897,482763227,Auto,590,60,17.37,15279147,Closed,0,Online,20-04-2023,Jakarta
+L0387,C00387,35,Male,Single,1,Bachelors,Salaried,58689611,11926106,26829282,Personal,672,36,10.87,3885201,Active,1,Online,26-01-2025,Bandung
+L0388,C00388,63,Female,Single,0,Masters,Self-Employed,22702209,8305827,46025578,Personal,556,36,19.76,1043016,Active,0,Branch,19-11-2023,Jakarta
+L0389,C00389,57,Female,Single,2,Masters,Salaried,55685439,6557642,384357770,Education,764,72,11.02,2334996,Restructured,0,Branch,08-12-2023,Bandung
+L0390,C00390,53,Female,Divorced,2,Bachelors,Self-Employed,33606051,5436526,234513822,Education,765,60,9.82,13076583,Active,0,Online,24-04-2024,Surabaya
+L0391,C00391,28,Male,Divorced,2,High School,Salaried,56716173,7639377,167724143,Mortgage,618,36,16.75,4698538,Active,0,Online,15-11-2023,Jakarta
+L0392,C00392,64,Male,Married,2,Bachelors,Salaried,52516431,1796218,451721830,Personal,618,12,19.35,6646049,Active,0,Branch,21-07-2023,Surabaya
+L0393,C00393,64,Female,Married,1,Masters,Salaried,58849426,12072640,51773155,Personal,630,48,8.8,1026567,Restructured,0,Online,06-12-2022,Jakarta
+L0394,C00394,25,Female,Married,1,Bachelors,Salaried,38670652,10772926,450390621,Mortgage,579,48,9.11,10499892,Restructured,0,Agent,28-07-2023,Bandung
+L0395,C00395,59,Male,Married,3,Bachelors,Freelancer,5221421,14387810,225036502,Personal,622,48,20.84,11611966,Active,0,Branch,26-10-2023,Bali
+L0396,C00396,24,Male,Single,0,High School,Freelancer,30515141,552226,122804235,Education,555,72,20.94,5741152,Active,0,Partner,13-10-2024,Bali
+L0397,C00397,26,Male,Married,2,Bachelors,Self-Employed,34086911,7514782,388498574,Mortgage,638,60,11.92,15214166,Delinquent,0,Partner,06-11-2024,Medan
+L0398,C00398,52,Male,Single,1,Masters,Salaried,33093795,5098907,158926878,Personal,696,36,17.84,4795788,Active,0,Partner,12-10-2022,Medan
+L0399,C00399,50,Female,Married,0,Bachelors,Salaried,47975509,8649318,190241322,Education,757,12,15.09,16634228,Active,0,Online,12-12-2024,Surabaya
+L0400,C00400,55,Male,Married,0,Masters,Self-Employed,18938810,9669504,14171364,Education,762,36,18.12,14938736,Delinquent,1,Agent,09-12-2022,Jakarta
+L0401,C00401,60,Female,Married,1,Bachelors,Self-Employed,25436213,7139608,335184164,Personal,615,48,21.81,17310733,Active,0,Online,17-08-2025,Medan
+L0402,C00402,36,Female,Single,2,Bachelors,Salaried,20300317,7707690,37101646,Auto,559,48,9.28,11721869,Active,1,Online,12-09-2022,Bandung
+L0403,C00403,33,Female,Single,3,High School,Salaried,17930098,7003621,32139420,Personal,693,36,20.45,3593103,Delinquent,0,Branch,16-12-2022,Bali
+L0404,C00404,62,Male,Single,0,Masters,Self-Employed,23194407,10429011,180346097,Personal,586,36,15.89,19965625,Active,0,Online,02-05-2024,Jakarta
+L0405,C00405,50,Male,Single,3,Bachelors,Salaried,25124742,3803074,310633706,Personal,756,24,17.03,1528742,Active,0,Online,22-06-2024,Bali
+L0406,C00406,39,Male,Single,2,Bachelors,Salaried,42032415,7416510,342789657,Auto,626,24,18.46,1022873,Active,0,Online,16-07-2025,Jakarta
+L0407,C00407,37,Male,Divorced,2,Bachelors,Salaried,51374447,12534834,282633195,Education,626,36,22.76,17381304,Active,0,Online,01-03-2024,Medan
+L0408,C00408,39,Female,Married,3,Masters,Salaried,29886290,14036865,87433985,Auto,581,24,8.91,17614131,Active,0,Branch,26-01-2025,Medan
+L0409,C00409,48,Male,Single,2,High School,Freelancer,56021573,9326801,449513358,Personal,786,24,8.47,5422801,Active,0,Online,25-01-2024,Surabaya
+L0410,C00410,46,Male,Single,0,Masters,Contract,21615507,7467133,67338099,Mortgage,596,24,10.85,5835805,Closed,0,Branch,15-11-2022,Jakarta
+L0411,C00411,57,Female,Married,3,High School,Salaried,49129434,9794027,162465795,Personal,659,36,23.78,18482555,Delinquent,0,Agent,22-11-2023,Bandung
+L0412,C00412,46,Male,Married,2,Bachelors,Salaried,37881204,12250620,329480021,BNPL,749,12,19.44,8889785,Active,0,Branch,21-09-2022,Medan
+L0413,C00413,43,Female,Married,3,High School,Salaried,47990186,9931711,259936689,Auto,720,60,17.83,10622156,Closed,0,Branch,14-06-2023,Surabaya
+L0414,C00414,29,Female,Divorced,0,Bachelors,Salaried,31368356,3507145,491086629,Personal,759,36,8.75,14166999,Closed,1,Agent,07-05-2025,Medan
+L0415,C00415,32,Female,Married,2,Bachelors,Salaried,52989551,1778244,63268246,Personal,669,48,22.07,11100846,Closed,1,Online,14-06-2025,Bali
+L0416,C00416,21,Female,Divorced,0,High School,Self-Employed,58013126,12290824,437196474,Mortgage,713,48,21,13952344,Active,0,Branch,23-10-2023,Medan
+L0417,C00417,21,Female,Married,2,Bachelors,Salaried,21310714,4782337,232590553,Personal,703,24,18.64,1243761,Delinquent,0,Partner,05-04-2023,Jakarta
+L0418,C00418,54,Female,Single,1,Masters,Salaried,41547652,11530145,151077362,Mortgage,559,36,13.43,13825733,Active,1,Agent,13-03-2023,Surabaya
+L0419,C00419,52,Female,Divorced,2,High School,Salaried,47703370,1180859,402450890,Personal,708,72,9.13,18212701,Active,1,Branch,18-07-2024,Jakarta
+L0420,C00420,45,Female,Single,3,Masters,Salaried,41487310,12976357,423698971,Personal,646,48,17.28,7633381,Active,0,Online,15-12-2022,Bandung
+L0421,C00421,60,Male,Married,2,Bachelors,Salaried,41384959,11915452,489602167,Auto,706,72,19.52,14507165,Closed,1,Agent,15-10-2023,Bandung
+L0422,C00422,21,Male,Single,0,Bachelors,Salaried,44727481,6733214,465685825,Education,554,48,9.51,7170205,Active,0,Online,12-08-2025,Medan
+L0423,C00423,36,Male,Married,0,High School,Contract,28591492,1980425,475576058,Education,626,24,18.14,11076728,Active,0,Online,07-05-2023,Surabaya
+L0424,C00424,59,Male,Married,2,High School,Salaried,19942742,7441521,14007324,Personal,550,12,12.58,8176185,Closed,0,Online,01-07-2023,Surabaya
+L0425,C00425,25,Female,Married,3,High School,Salaried,38384116,13139019,152421220,Personal,764,36,20.23,7001827,Delinquent,0,Branch,04-08-2025,Surabaya
+L0426,C00426,42,Male,Married,1,High School,Freelancer,22599780,14727843,38085521,Personal,781,36,16.63,16965527,Closed,1,Partner,28-08-2024,Surabaya
+L0427,C00427,49,Female,Single,3,High School,Contract,46796616,8077813,195190838,Auto,680,24,10.06,3522189,Active,0,Partner,19-01-2025,Medan
+L0428,C00428,23,Male,Single,1,Bachelors,Salaried,49338446,7694420,419091069,Auto,616,60,16.42,1942151,Active,0,Partner,24-04-2023,Jakarta
+L0429,C00429,32,Male,Married,0,Masters,Freelancer,43598748,9850350,62658737,Education,748,36,14.33,14844545,Closed,0,Online,07-10-2024,Medan
+L0430,C00430,46,Male,Single,3,Masters,Salaried,27435781,2941616,127985165,Education,777,24,10.89,1476015,Active,0,Branch,10-08-2024,Jakarta
+L0431,C00431,36,Female,Married,1,Bachelors,Salaried,42026320,2474370,492646133,Personal,712,60,21.46,1876611,Closed,0,Partner,09-04-2023,Bali
+L0432,C00432,57,Male,Single,2,High School,Salaried,15531993,5604297,132947273,Auto,564,60,8.18,8429174,Active,1,Branch,12-06-2024,Bali
+L0433,C00433,42,Female,Divorced,0,High School,Self-Employed,49011924,7105924,10393186,BNPL,781,36,12.99,15707667,Delinquent,0,Agent,24-11-2023,Jakarta
+L0434,C00434,49,Female,Married,2,Bachelors,Self-Employed,46092244,2078937,315745378,BNPL,744,60,8.2,4427495,Active,0,Partner,26-10-2024,Medan
+L0435,C00435,34,Male,Married,0,High School,Salaried,41103032,12129980,224249866,Personal,642,60,9.54,7860184,Active,1,Branch,05-12-2023,Bandung
+L0436,C00436,48,Male,Single,3,Bachelors,Salaried,10198245,14825428,352615742,Personal,579,36,12.75,9744578,Delinquent,0,Online,30-06-2025,Medan
+L0437,C00437,25,Male,Married,3,Bachelors,Self-Employed,33870249,8915948,214630891,Auto,652,12,8.87,19563957,Active,1,Branch,20-07-2024,Bandung
+L0438,C00438,50,Female,Divorced,0,Bachelors,Salaried,50859287,1355097,182731851,Personal,631,12,17.55,9375065,Active,0,Agent,28-06-2025,Medan
+L0439,C00439,25,Male,Married,0,Bachelors,Salaried,23762620,2055397,217859522,Personal,624,36,9.39,17195367,Delinquent,0,Online,02-09-2025,Surabaya
+L0440,C00440,32,Female,Married,0,Masters,Self-Employed,45342134,9636094,226135348,Personal,720,24,19.23,2972645,Active,0,Partner,16-04-2024,Surabaya
+L0441,C00441,36,Female,Married,3,Masters,Self-Employed,7126861,10815723,438581798,Mortgage,790,72,8.84,5151235,Active,1,Online,23-01-2023,Bali
+L0442,C00442,46,Male,Single,1,Bachelors,Self-Employed,42333769,10337305,280185549,Personal,609,48,8.95,13388242,Active,0,Branch,27-08-2023,Bali
+L0443,C00443,46,Male,Married,2,Masters,Freelancer,40606155,13608519,32993847,Personal,779,48,12.89,18214754,Active,0,Branch,19-01-2025,Jakarta
+L0444,C00444,41,Female,Single,2,PhD,Salaried,28066405,13778180,277777435,Personal,589,72,22.35,3224615,Active,0,Branch,24-04-2023,Bandung
+L0445,C00445,59,Female,Single,3,Bachelors,Self-Employed,56380587,1079037,246101706,BNPL,742,60,18.26,2150112,Closed,0,Partner,25-03-2025,Surabaya
+L0446,C00446,56,Female,Single,2,Bachelors,Self-Employed,43243565,12341518,149460902,BNPL,706,24,20.32,10195168,Closed,0,Online,24-01-2023,Medan
+L0447,C00447,53,Male,Single,0,Bachelors,Salaried,9178465,13598842,344462744,Auto,623,24,10.26,10689165,Active,1,Online,31-12-2023,Jakarta
+L0448,C00448,50,Female,Single,1,Masters,Salaried,30562280,4151951,432325418,Auto,769,48,21.35,12865481,Active,1,Partner,20-04-2024,Medan
+L0449,C00449,57,Male,Single,2,Masters,Salaried,44262729,3155200,57486162,Education,670,36,8.13,11415643,Delinquent,0,Online,24-04-2023,Surabaya
+L0450,C00450,43,Female,Divorced,1,High School,Salaried,36502969,855695,184592559,Personal,772,36,11.41,11084963,Restructured,0,Branch,26-01-2025,Surabaya
+L0451,C00451,30,Female,Married,0,Bachelors,Self-Employed,37769936,112036,379706069,Personal,696,48,17.86,15560655,Active,0,Online,26-04-2024,Surabaya
+L0452,C00452,25,Male,Divorced,2,Bachelors,Freelancer,56230352,12771586,137930043,Personal,552,60,14,8945982,Delinquent,0,Online,24-04-2023,Surabaya
+L0453,C00453,56,Female,Married,3,Bachelors,Salaried,50704130,10773427,216905715,Personal,585,36,23.75,2048581,Closed,1,Branch,29-09-2023,Medan
+L0454,C00454,54,Male,Single,1,High School,Salaried,30340861,3831854,229797483,Personal,592,48,8.49,14865640,Active,1,Partner,18-08-2025,Jakarta
+L0455,C00455,51,Male,Married,0,Masters,Contract,10243762,889694,78083167,Education,692,24,23.98,14900670,Active,1,Online,23-04-2023,Surabaya
+L0456,C00456,30,Female,Married,1,Bachelors,Salaried,13231691,590348,460643094,Mortgage,774,48,17.98,17521486,Active,0,Online,06-11-2024,Bali
+L0457,C00457,39,Male,Single,2,Masters,Salaried,49819302,11149519,69040836,Auto,718,12,16.94,6638702,Delinquent,0,Online,14-08-2025,Jakarta
+L0458,C00458,52,Male,Married,2,Masters,Salaried,34348355,9760054,30030723,Education,784,60,8.95,1802914,Closed,0,Branch,31-03-2023,Bali
+L0459,C00459,21,Female,Single,3,Masters,Salaried,16660201,7695082,274890331,Personal,664,12,12.37,4497859,Closed,0,Online,27-06-2023,Medan
+L0460,C00460,25,Male,Married,0,Bachelors,Salaried,47972556,11813012,499415501,Personal,658,48,22.79,7514329,Active,0,Branch,08-03-2023,Surabaya
+L0461,C00461,24,Male,Married,0,Bachelors,Salaried,23473825,9297729,332398151,Auto,639,12,13.67,15700939,Closed,1,Partner,13-10-2023,Jakarta
+L0462,C00462,36,Male,Single,3,High School,Salaried,25346985,12009909,149190792,Mortgage,757,24,18.59,12809537,Closed,1,Branch,31-10-2024,Surabaya
+L0463,C00463,44,Female,Single,3,Bachelors,Salaried,42164116,10528922,352392440,Personal,713,36,23.99,16144738,Delinquent,1,Online,01-07-2023,Surabaya
+L0464,C00464,36,Male,Married,0,High School,Salaried,38583317,4066981,489187314,Auto,774,36,12.21,9214025,Active,1,Branch,17-03-2023,Jakarta
+L0465,C00465,22,Female,Married,1,Bachelors,Salaried,38201272,4467801,295693346,Mortgage,633,24,17.22,19115439,Closed,0,Agent,14-03-2023,Surabaya
+L0466,C00466,48,Female,Single,1,High School,Self-Employed,9590723,10598073,250201828,Mortgage,626,24,19.14,12635432,Active,0,Online,03-06-2025,Surabaya
+L0467,C00467,52,Male,Divorced,3,High School,Freelancer,24589969,10514237,115411220,Mortgage,710,48,10.63,12522730,Closed,0,Online,25-01-2023,Bandung
+L0468,C00468,47,Male,Single,1,High School,Salaried,43144196,14311418,83793465,Personal,554,48,10.38,13105236,Closed,0,Branch,25-12-2022,Bandung
+L0469,C00469,40,Male,Married,0,High School,Salaried,8129985,2183525,236014865,Personal,778,12,15.3,16564814,Active,0,Online,28-06-2023,Jakarta
+L0470,C00470,44,Female,Divorced,2,Masters,Self-Employed,56710987,12463277,236885472,Auto,627,48,14.17,10005908,Closed,0,Branch,24-09-2024,Jakarta
+L0471,C00471,32,Male,Single,2,Masters,Salaried,57450384,693464,374993479,Personal,640,12,19.43,5881083,Active,0,Partner,25-06-2024,Surabaya
+L0472,C00472,55,Male,Single,1,Bachelors,Salaried,15232137,9107338,13612914,Education,636,36,9.11,12214815,Delinquent,0,Branch,24-10-2023,Bali
+L0473,C00473,53,Male,Single,3,High School,Self-Employed,56151621,1577415,136012144,Auto,563,24,23.55,17342774,Active,0,Branch,26-05-2023,Jakarta
+L0474,C00474,53,Male,Single,3,High School,Freelancer,24427719,4262663,244115583,Personal,653,36,8.23,16306756,Closed,0,Branch,02-08-2025,Surabaya
+L0475,C00475,63,Male,Single,3,High School,Freelancer,6118844,3593824,381255850,Mortgage,745,24,17.62,12271368,Delinquent,0,Online,08-02-2023,Bali
+L0476,C00476,57,Female,Married,3,High School,Salaried,49820786,4668223,158347998,Auto,780,72,17,8679124,Active,0,Online,21-08-2024,Bandung
+L0477,C00477,32,Female,Single,3,Masters,Self-Employed,17184842,8036837,61276001,Personal,793,24,10.16,16740395,Active,0,Partner,06-08-2024,Jakarta
+L0478,C00478,23,Male,Married,1,High School,Salaried,44255480,1358356,55352453,BNPL,632,24,10.41,19602995,Active,1,Agent,11-05-2024,Surabaya
+L0479,C00479,21,Male,Divorced,2,Bachelors,Self-Employed,42448574,1515719,125996885,BNPL,724,24,20.68,17108769,Active,0,Partner,02-12-2023,Bandung
+L0480,C00480,53,Male,Married,2,High School,Salaried,28239496,4141426,52994381,Mortgage,603,60,22.2,15240329,Active,0,Agent,14-08-2025,Medan
+L0481,C00481,60,Male,Married,1,High School,Salaried,12042049,9204725,274546370,Personal,681,48,12.53,7548216,Closed,0,Online,25-05-2024,Bandung
+L0482,C00482,30,Female,Single,3,Bachelors,Self-Employed,32133578,837566,41822219,Auto,771,48,15.01,7235111,Delinquent,1,Online,15-03-2023,Surabaya
+L0483,C00483,63,Male,Married,1,Bachelors,Salaried,53835195,6642516,206768355,Mortgage,760,60,13.68,12337879,Delinquent,0,Online,01-04-2023,Bali
+L0484,C00484,64,Female,Married,2,High School,Salaried,20838516,9545151,317858443,Personal,644,60,9.16,6065719,Active,1,Online,24-07-2023,Medan
+L0485,C00485,49,Female,Married,0,High School,Freelancer,44781091,8483063,322202476,Personal,772,48,18.77,3143781,Closed,1,Partner,29-09-2024,Medan
+L0486,C00486,33,Male,Single,1,Bachelors,Salaried,48189769,8123155,360717761,BNPL,558,24,21.2,12178487,Delinquent,1,Agent,23-04-2024,Medan
+L0487,C00487,32,Female,Married,3,High School,Salaried,7781652,9898247,305568129,Personal,602,60,12.88,5141042,Active,0,Partner,30-11-2024,Jakarta
+L0488,C00488,51,Female,Married,2,High School,Salaried,40645651,1223981,431152142,Mortgage,626,24,23.84,2519546,Active,0,Branch,24-04-2025,Surabaya
+L0489,C00489,22,Female,Single,2,PhD,Self-Employed,37121967,2336798,411564054,Auto,755,48,9.21,19832624,Active,0,Online,26-09-2022,Medan
+L0490,C00490,55,Female,Single,2,Bachelors,Self-Employed,42772067,12772849,43295260,Auto,796,48,18.59,19156449,Delinquent,0,Online,09-02-2023,Bandung
+L0491,C00491,43,Male,Married,2,Bachelors,Salaried,34383132,10958072,375578064,Personal,609,48,15.17,16656982,Active,0,Online,09-03-2023,Bali
+L0492,C00492,37,Male,Married,3,Bachelors,Self-Employed,50327209,2158344,483057501,BNPL,595,36,15.15,13489770,Closed,1,Branch,18-04-2023,Surabaya
+L0493,C00493,46,Female,Married,0,Bachelors,Salaried,33715260,6483214,418523931,Personal,603,48,15.32,4451345,Active,1,Branch,01-03-2024,Bandung
+L0494,C00494,28,Male,Married,2,Bachelors,Self-Employed,13836621,835165,72345869,Auto,623,72,12.14,2717222,Restructured,0,Agent,24-11-2022,Jakarta
+L0495,C00495,49,Male,Single,1,Bachelors,Salaried,57617967,11769497,104411179,Mortgage,661,12,19.45,17977427,Active,0,Partner,02-11-2024,Medan
+L0496,C00496,46,Male,Married,0,Masters,Salaried,5931253,13395337,236333648,Mortgage,644,24,19.55,13638828,Closed,1,Online,12-10-2022,Bandung
+L0497,C00497,30,Male,Married,2,High School,Freelancer,52799252,1734428,77413407,Education,714,48,12.52,10061568,Active,0,Online,27-10-2024,Surabaya
+L0498,C00498,46,Male,Single,0,Bachelors,Salaried,40398485,3822069,173359725,Auto,572,72,21.36,3095383,Active,0,Branch,01-06-2025,Bandung
+L0499,C00499,54,Female,Single,1,Bachelors,Salaried,53516756,12869199,482874309,Personal,576,12,13.07,11670977,Closed,0,Online,21-02-2025,Jakarta
+L0500,C00500,61,Male,Married,2,Masters,Salaried,55874603,10432291,212783090,Education,619,12,19.6,18644697,Restructured,0,Partner,29-03-2025,Bali
+L0501,C00501,27,Male,Single,1,Bachelors,Contract,18968689,3144787,395783127,Mortgage,767,12,9.94,5396054,Active,0,Branch,11-08-2024,Medan
+L0502,C00502,24,Male,Married,3,Bachelors,Salaried,36007197,8346988,55640965,Personal,743,12,10.7,19045646,Active,0,Online,25-12-2023,Surabaya
+L0503,C00503,31,Male,Single,2,High School,Salaried,52213222,2812789,39334810,Personal,658,60,13.05,10135011,Active,0,Branch,21-03-2024,Medan
+L0504,C00504,49,Female,Single,2,Bachelors,Salaried,16938835,11641380,98599377,BNPL,738,48,17.5,6578086,Active,0,Branch,01-04-2023,Medan
+L0505,C00505,56,Female,Single,2,High School,Salaried,8307735,9942357,407355863,Personal,626,48,18.33,13515877,Active,0,Partner,21-05-2025,Medan
+L0506,C00506,45,Female,Divorced,2,Bachelors,Salaried,15186886,10666822,321091428,Mortgage,728,36,14.34,14781922,Closed,0,Online,30-08-2024,Bandung
+L0507,C00507,41,Female,Married,3,High School,Self-Employed,33474248,7992726,443540983,Auto,599,48,9.25,16250633,Delinquent,0,Partner,09-04-2025,Bandung
+L0508,C00508,56,Male,Divorced,2,Bachelors,Contract,30538969,8844712,86478743,Personal,673,24,13.98,10219892,Active,0,Branch,13-03-2023,Bali
+L0509,C00509,30,Female,Married,0,High School,Salaried,16842981,2166503,327876069,Mortgage,568,36,19.02,17506621,Active,1,Partner,16-05-2024,Jakarta
+L0510,C00510,57,Male,Single,2,Bachelors,Salaried,40607845,8045391,150641569,Personal,550,36,18.74,11140380,Active,0,Online,13-04-2024,Surabaya
+L0511,C00511,29,Male,Married,3,Masters,Salaried,28463157,8622693,278354606,Auto,589,12,10.56,15160371,Active,0,Branch,18-05-2024,Bandung
+L0512,C00512,44,Male,Married,2,High School,Salaried,18377212,9146779,19380814,Auto,709,36,8.12,12680810,Active,1,Branch,04-08-2024,Medan
+L0513,C00513,55,Male,Married,0,Bachelors,Freelancer,30851435,498095,297450826,Auto,571,24,20.05,14626214,Active,1,Branch,24-01-2025,Jakarta
+L0514,C00514,55,Male,Single,3,Bachelors,Salaried,20020117,10556069,68723541,Mortgage,661,12,9.7,9650353,Active,1,Partner,09-03-2025,Surabaya
+L0515,C00515,56,Female,Married,3,High School,Salaried,40211819,13269005,142506357,BNPL,770,12,9.32,6963523,Active,0,Branch,26-10-2023,Surabaya
+L0516,C00516,38,Female,Single,0,Masters,Self-Employed,41345673,9556340,79766167,Mortgage,743,48,8.04,8694852,Active,0,Partner,03-04-2024,Surabaya
+L0517,C00517,59,Female,Single,0,High School,Salaried,46592253,10823904,205971345,Personal,589,12,14.92,19523875,Active,1,Online,03-12-2022,Surabaya
+L0518,C00518,52,Female,Married,0,Bachelors,Self-Employed,56552633,9879032,405969067,Personal,587,60,16.05,5940952,Active,1,Partner,16-03-2025,Bali
+L0519,C00519,44,Male,Married,0,Bachelors,Salaried,16967877,8410184,412150219,Auto,597,12,18.2,14689610,Delinquent,1,Online,25-05-2023,Surabaya
+L0520,C00520,43,Female,Single,0,Bachelors,Freelancer,30511568,12061944,372091832,Education,732,48,12.74,8046305,Closed,0,Partner,25-06-2023,Jakarta
+L0521,C00521,52,Male,Single,3,Bachelors,Freelancer,32009265,11151870,353868778,BNPL,624,60,19.37,16961301,Delinquent,0,Agent,08-05-2025,Bandung
+L0522,C00522,57,Female,Married,3,High School,Self-Employed,7604325,11113050,321480987,BNPL,758,60,10.71,17381837,Active,0,Online,01-07-2024,Jakarta
+L0523,C00523,32,Male,Married,2,High School,Contract,7761623,3330263,486425191,Personal,732,60,21.31,4156390,Active,0,Branch,31-03-2025,Medan
+L0524,C00524,33,Male,Married,2,Masters,Salaried,57008498,7366604,346210299,Auto,728,24,17.15,15087705,Active,0,Branch,29-04-2023,Bali
+L0525,C00525,43,Female,Divorced,1,Bachelors,Salaried,36258889,13618777,15446342,Auto,656,24,17.34,13116906,Active,0,Online,19-11-2023,Bali
+L0526,C00526,45,Male,Married,2,Masters,Self-Employed,8783799,13911580,128224790,Personal,737,36,11.36,16078179,Closed,0,Branch,22-05-2024,Medan
+L0527,C00527,55,Male,Single,2,Masters,Salaried,20940295,3665842,91635284,Personal,557,12,9.19,3912166,Active,0,Online,15-05-2023,Jakarta
+L0528,C00528,61,Female,Married,0,Masters,Salaried,44264148,11126576,203445537,Education,635,12,15.44,11469052,Active,0,Partner,29-12-2022,Jakarta
+L0529,C00529,50,Male,Married,0,Bachelors,Salaried,15245367,2791338,103251466,Personal,617,60,17.85,6890681,Active,1,Partner,08-07-2024,Medan
+L0530,C00530,37,Female,Single,2,Bachelors,Salaried,38177669,10574811,118469717,Personal,624,36,9.52,8513317,Active,1,Partner,01-09-2024,Surabaya
+L0531,C00531,40,Female,Married,1,Masters,Salaried,25664148,11300059,64416105,Personal,749,48,23.21,7105183,Restructured,0,Branch,24-02-2025,Surabaya
+L0532,C00532,45,Female,Single,0,Bachelors,Salaried,5432184,3337031,398346530,Education,686,60,23.69,18637729,Active,0,Partner,06-10-2023,Bandung
+L0533,C00533,42,Male,Divorced,2,High School,Self-Employed,14598333,14615254,84213491,Auto,639,48,16.73,5428935,Closed,1,Online,19-10-2024,Jakarta
+L0534,C00534,33,Male,Married,2,Masters,Salaried,24114022,14378204,322916572,Mortgage,679,48,23.2,16604634,Active,0,Branch,30-06-2024,Jakarta
+L0535,C00535,39,Male,Married,3,Masters,Salaried,33500768,14413188,231901865,Education,629,48,10.87,18836504,Restructured,0,Branch,05-09-2025,Medan
+L0536,C00536,56,Female,Married,1,Bachelors,Salaried,36243706,10689065,46753179,Personal,644,12,8.41,6999566,Active,0,Agent,18-06-2023,Medan
+L0537,C00537,32,Male,Married,3,High School,Salaried,12517201,11841158,476823546,Mortgage,619,36,8.63,7810136,Closed,0,Partner,05-05-2023,Surabaya
+L0538,C00538,61,Female,Married,1,Bachelors,Freelancer,58239735,8234025,384574801,Personal,794,72,17.4,5390741,Active,0,Branch,21-04-2025,Jakarta
+L0539,C00539,39,Female,Married,0,Masters,Salaried,5658139,3945123,291550029,Personal,762,60,8.99,11048657,Closed,0,Partner,04-05-2023,Jakarta
+L0540,C00540,32,Male,Single,1,Masters,Salaried,58302072,10943336,127082577,BNPL,639,60,23.34,13070834,Active,0,Online,27-10-2022,Bali
+L0541,C00541,29,Female,Married,2,High School,Freelancer,20860467,4768026,177268059,Mortgage,608,36,10.27,9242909,Active,0,Partner,18-08-2025,Bandung
+L0542,C00542,27,Male,Single,2,High School,Salaried,45147295,10552377,230006679,Personal,696,60,12.88,3899529,Delinquent,0,Branch,15-10-2022,Bandung
+L0543,C00543,48,Male,Married,1,Masters,Salaried,13234955,4083501,253891847,Personal,577,12,21.16,17688621,Restructured,0,Online,30-04-2023,Surabaya
+L0544,C00544,34,Male,Married,1,Bachelors,Salaried,28385903,4836161,69066485,Auto,621,12,11.5,8681356,Active,0,Branch,20-09-2024,Jakarta
+L0545,C00545,51,Male,Married,1,Bachelors,Freelancer,25882729,1780248,299970484,Personal,563,36,11.89,19158389,Delinquent,0,Branch,23-01-2025,Bali
+L0546,C00546,39,Male,Single,3,PhD,Salaried,37033050,6126664,121541703,Personal,573,36,18.28,14454748,Active,0,Branch,28-09-2023,Jakarta
+L0547,C00547,36,Female,Single,1,High School,Salaried,27992457,13449076,442545242,Personal,661,24,12.42,15626405,Delinquent,0,Branch,12-10-2024,Medan
+L0548,C00548,25,Female,Married,0,Bachelors,Salaried,26094509,10996634,253349603,Personal,593,36,11.48,18828844,Closed,0,Branch,29-03-2024,Surabaya
+L0549,C00549,55,Female,Single,3,High School,Salaried,18409459,7709824,108097412,BNPL,778,24,12.07,3386568,Active,0,Partner,16-01-2025,Bandung
+L0550,C00550,32,Male,Single,3,Bachelors,Salaried,17859305,13712982,460266080,Personal,605,36,15.85,12837630,Delinquent,0,Partner,20-03-2025,Jakarta
+L0551,C00551,45,Male,Single,1,Masters,Salaried,58393129,14375753,238365616,Personal,767,48,23.46,1148388,Delinquent,0,Online,25-12-2023,Surabaya
+L0552,C00552,41,Male,Divorced,0,Bachelors,Salaried,47242890,4795817,87063521,Auto,772,48,21.32,8786637,Active,0,Agent,03-05-2025,Bandung
+L0553,C00553,56,Female,Married,3,PhD,Freelancer,50894422,2180019,132032413,BNPL,669,12,12.55,6077831,Closed,0,Branch,26-08-2024,Jakarta
+L0554,C00554,43,Male,Single,2,Bachelors,Self-Employed,27381281,14848664,96735175,Personal,728,36,13.81,4101954,Active,0,Partner,29-10-2023,Bali
+L0555,C00555,36,Female,Single,3,Bachelors,Salaried,55174008,779957,292359870,Personal,581,48,15.43,8280054,Delinquent,0,Branch,17-11-2023,Surabaya
+L0556,C00556,59,Female,Single,1,High School,Freelancer,30206963,1913980,75758489,Personal,727,36,23.66,9938606,Closed,0,Online,13-01-2023,Jakarta
+L0557,C00557,62,Male,Married,0,Bachelors,Salaried,18222119,1507394,123431992,Mortgage,718,36,10.76,5973216,Active,0,Online,29-07-2024,Bandung
+L0558,C00558,59,Male,Married,1,Bachelors,Salaried,30937789,2979845,141308836,Auto,743,48,13.72,8285599,Closed,0,Partner,04-07-2023,Bandung
+L0559,C00559,34,Female,Single,2,High School,Self-Employed,38857878,2712188,218106209,BNPL,574,72,19.67,7961990,Active,1,Branch,23-01-2023,Bali
+L0560,C00560,51,Male,Single,2,Bachelors,Freelancer,41925916,8642873,489349766,Education,665,12,23.42,3577697,Active,0,Partner,08-01-2024,Surabaya
+L0561,C00561,25,Female,Single,2,Bachelors,Self-Employed,6398558,4713797,363167998,Mortgage,785,36,10.49,8676465,Active,0,Branch,06-07-2023,Surabaya
+L0562,C00562,55,Male,Married,1,Masters,Salaried,7761158,14844468,144941607,Mortgage,738,36,11.64,7232238,Active,0,Online,15-01-2025,Jakarta
+L0563,C00563,43,Male,Married,3,Bachelors,Freelancer,6717479,910913,290812635,Auto,615,36,11.61,6328567,Closed,0,Online,04-10-2022,Bandung
+L0564,C00564,49,Female,Single,1,Masters,Salaried,31964256,2057017,264990246,Personal,591,24,8.33,13701880,Active,1,Partner,10-10-2024,Bandung
+L0565,C00565,63,Male,Single,0,High School,Freelancer,6045716,653817,28397030,Education,742,24,17.67,13786482,Active,0,Online,27-12-2022,Bali
+L0566,C00566,31,Female,Single,3,High School,Contract,8823873,996433,464429147,Personal,713,24,18.73,4577141,Closed,0,Partner,24-04-2024,Bali
+L0567,C00567,38,Male,Divorced,2,Bachelors,Salaried,58293585,10423894,212829310,Personal,798,72,17.64,18593689,Active,0,Online,30-01-2023,Surabaya
+L0568,C00568,32,Female,Single,1,Bachelors,Self-Employed,34260462,2581505,23772237,Mortgage,625,48,9.14,14502619,Active,0,Partner,16-04-2023,Bandung
+L0569,C00569,29,Female,Married,2,High School,Salaried,16323620,6555851,230932148,Personal,686,48,9.11,13346138,Active,0,Online,30-12-2022,Jakarta
+L0570,C00570,30,Male,Married,2,Masters,Salaried,42248225,4108949,357476453,Auto,713,60,11.37,17639475,Closed,0,Online,17-06-2023,Medan
+L0571,C00571,64,Female,Single,0,Masters,Salaried,36515219,6128420,486458627,Auto,782,12,12.64,2430264,Active,1,Branch,23-04-2025,Jakarta
+L0572,C00572,37,Male,Single,3,Bachelors,Salaried,54729314,4876691,312388713,Auto,769,60,20.58,7498450,Active,0,Branch,12-07-2024,Bali
+L0573,C00573,58,Male,Single,0,High School,Freelancer,11115762,13728870,141778513,BNPL,587,36,10.55,11024454,Active,0,Online,25-07-2025,Jakarta
+L0574,C00574,27,Male,Married,0,Masters,Self-Employed,15509308,4674071,460676075,Personal,710,24,8.71,17580252,Delinquent,0,Agent,07-03-2023,Bandung
+L0575,C00575,33,Female,Married,0,Bachelors,Salaried,41108021,4203887,75449071,Auto,719,60,14.3,3729974,Active,0,Online,16-02-2023,Surabaya
+L0576,C00576,60,Female,Married,2,Masters,Freelancer,23475629,13157587,23654424,Auto,610,60,14.66,12175594,Restructured,0,Branch,12-01-2023,Medan
+L0577,C00577,62,Male,Married,0,Masters,Contract,32696893,7138512,347429510,Mortgage,723,60,15.21,19112580,Closed,0,Online,12-09-2022,Surabaya
+L0578,C00578,29,Male,Single,0,Masters,Salaried,18027415,9886458,166086939,Mortgage,763,12,21.23,12048541,Delinquent,0,Online,11-02-2024,Medan
+L0579,C00579,47,Female,Divorced,3,Bachelors,Contract,38692231,4036480,27007812,Personal,638,72,9.57,10310071,Active,0,Branch,01-03-2025,Medan
+L0580,C00580,22,Male,Married,3,High School,Salaried,47124829,7567476,242354626,Mortgage,738,72,19.26,10222329,Active,1,Online,02-05-2025,Bandung
+L0581,C00581,25,Male,Single,0,Bachelors,Freelancer,36882923,9335411,14993899,Personal,567,36,13.41,9820939,Delinquent,0,Partner,07-07-2025,Bandung
+L0582,C00582,49,Female,Divorced,3,Bachelors,Salaried,59149428,3486444,222594398,Education,619,12,12.96,12252265,Active,0,Online,04-05-2024,Bali
+L0583,C00583,57,Male,Married,3,Masters,Salaried,29673161,7163357,47677422,Personal,631,24,22.92,11115084,Active,0,Partner,16-11-2023,Bali
+L0584,C00584,58,Female,Married,0,High School,Salaried,9170163,12398696,25905769,Mortgage,665,72,11.98,7589081,Active,0,Online,11-09-2022,Medan
+L0585,C00585,39,Male,Married,2,High School,Self-Employed,43183088,10484206,426952569,Personal,629,36,18.28,3323729,Restructured,0,Online,20-03-2025,Bali
+L0586,C00586,28,Female,Married,0,Masters,Salaried,44436481,5509165,410054163,Personal,564,36,12.4,19427177,Closed,0,Online,12-08-2025,Bandung
+L0587,C00587,21,Male,Married,3,Masters,Salaried,10688505,4873014,156712146,Auto,725,24,16.11,10197618,Active,0,Partner,22-06-2024,Bali
+L0588,C00588,42,Male,Single,2,Masters,Salaried,14190617,468298,92519279,BNPL,749,24,20.58,6124595,Closed,0,Branch,26-08-2023,Medan
+L0589,C00589,37,Female,Single,1,Masters,Freelancer,29464547,12391639,457338875,Auto,562,48,22.11,5709075,Active,1,Partner,19-06-2023,Surabaya
+L0590,C00590,27,Male,Divorced,2,Bachelors,Salaried,9306080,4330453,120485386,Education,668,36,21.42,12988221,Closed,0,Branch,24-11-2022,Jakarta
+L0591,C00591,45,Female,Single,3,Bachelors,Salaried,35245806,570303,201046503,Auto,592,72,17.31,11664782,Active,0,Partner,07-09-2024,Bali
+L0592,C00592,24,Male,Single,2,Masters,Salaried,19389772,9377259,77403222,Auto,737,48,11.98,8173625,Delinquent,0,Branch,28-12-2024,Bandung
+L0593,C00593,56,Female,Married,0,Bachelors,Salaried,11805080,5170988,91488646,Personal,606,48,18.58,18948332,Active,0,Online,29-10-2022,Surabaya
+L0594,C00594,26,Female,Married,1,Bachelors,Freelancer,21990019,3317657,185367062,BNPL,748,24,19.36,7982805,Active,0,Online,03-12-2024,Bandung
+L0595,C00595,51,Female,Married,1,High School,Freelancer,24033129,13339468,202382652,Personal,566,12,8.17,6010919,Active,0,Branch,18-11-2024,Bali
+L0596,C00596,39,Female,Divorced,1,Bachelors,Salaried,29783762,3336640,398749766,BNPL,727,36,15.03,17385082,Active,0,Branch,01-10-2023,Medan
+L0597,C00597,64,Male,Single,3,Masters,Salaried,15842852,12577303,417374189,Education,581,24,21.49,3859453,Closed,0,Online,29-11-2022,Jakarta
+L0598,C00598,59,Male,Single,3,High School,Self-Employed,42770077,13637065,422624161,Education,699,24,15.83,19395971,Active,0,Partner,01-06-2024,Jakarta
+L0599,C00599,47,Female,Single,1,High School,Salaried,38400086,5000738,199519721,Auto,604,72,12.98,13497650,Active,0,Branch,26-01-2023,Surabaya
+L0600,C00600,30,Female,Married,2,Bachelors,Freelancer,7870581,14730775,457582610,Mortgage,792,36,21.95,15726965,Active,0,Branch,17-11-2022,Jakarta
+L0601,C00601,46,Female,Married,1,High School,Self-Employed,28792448,2660891,11247752,Mortgage,734,24,10.49,3463208,Active,1,Online,27-03-2024,Medan
+L0602,C00602,39,Male,Single,2,High School,Self-Employed,13120459,6995919,39750575,Personal,562,24,11.3,5004168,Active,1,Branch,14-04-2025,Bandung
+L0603,C00603,59,Male,Married,2,Bachelors,Salaried,16883287,4616167,182467314,Mortgage,596,24,19,9784599,Active,1,Online,06-11-2022,Medan
+L0604,C00604,23,Male,Married,3,Masters,Salaried,45154932,8947727,468342609,Personal,636,72,13.64,2981908,Active,0,Online,31-07-2024,Surabaya
+L0605,C00605,33,Male,Married,2,Bachelors,Contract,21856056,5998544,199850664,Auto,611,24,19.41,9993487,Active,0,Partner,06-08-2024,Surabaya
+L0606,C00606,48,Female,Divorced,1,High School,Salaried,10408647,14514418,189475247,Personal,731,24,10.52,1280759,Active,0,Online,09-04-2025,Jakarta
+L0607,C00607,40,Female,Single,3,High School,Self-Employed,5161297,10352565,278552364,Personal,578,48,12.04,14538302,Delinquent,0,Online,07-11-2024,Medan
+L0608,C00608,48,Female,Married,0,Bachelors,Salaried,33135480,2342094,213669737,Personal,571,24,10.51,19897206,Closed,0,Online,28-06-2024,Bandung
+L0609,C00609,28,Male,Married,0,Bachelors,Self-Employed,6931375,2192271,55318936,Auto,614,24,23.25,14934360,Active,0,Branch,06-11-2024,Medan
+L0610,C00610,61,Male,Married,3,Masters,Salaried,9243460,13406177,418500083,Mortgage,578,24,14.49,6883417,Closed,0,Online,07-03-2025,Bandung
+L0611,C00611,59,Male,Married,1,Bachelors,Salaried,40859865,2845376,402672845,Personal,597,24,13.4,14185200,Delinquent,0,Online,18-11-2023,Bandung
+L0612,C00612,21,Female,Married,0,Masters,Salaried,10926069,3956558,379950315,Auto,554,12,8.23,14606316,Active,0,Branch,17-01-2024,Medan
+L0613,C00613,23,Female,Married,0,High School,Self-Employed,25997458,5236441,254120344,Personal,799,12,10.45,9533216,Delinquent,0,Branch,15-04-2025,Bali
+L0614,C00614,33,Male,Single,2,Bachelors,Self-Employed,11739202,3731570,391435282,Auto,712,60,14.74,9324672,Active,0,Agent,13-05-2025,Medan
+L0615,C00615,48,Female,Married,2,High School,Salaried,40641433,6342211,82469542,Mortgage,796,12,9.1,9525380,Delinquent,1,Online,14-07-2024,Bandung
+L0616,C00616,45,Male,Divorced,1,Masters,Salaried,58013370,11420970,220356342,Auto,751,48,16.17,14277111,Active,0,Online,02-08-2024,Surabaya
+L0617,C00617,53,Male,Divorced,3,Bachelors,Self-Employed,42010105,9590596,169621454,Mortgage,760,48,15.28,14379592,Active,0,Branch,22-07-2024,Surabaya
+L0618,C00618,58,Female,Single,1,Bachelors,Salaried,12605502,13434338,385711055,Personal,650,36,20.27,9209093,Active,0,Online,13-06-2025,Jakarta
+L0619,C00619,26,Male,Single,3,High School,Salaried,30038411,5831052,343921818,Mortgage,620,24,18.56,13075801,Restructured,0,Partner,16-01-2025,Surabaya
+L0620,C00620,64,Female,Single,0,High School,Salaried,6731530,9978954,87657703,Auto,723,12,15.14,17141339,Closed,0,Branch,26-02-2024,Bali
+L0621,C00621,52,Male,Married,2,Bachelors,Salaried,43913131,13685713,118790974,Auto,712,48,11.59,13626727,Active,0,Online,26-01-2025,Bandung
+L0622,C00622,41,Female,Married,1,High School,Salaried,50355675,14869985,68544451,Mortgage,722,48,19.63,16789251,Active,0,Partner,23-04-2025,Medan
+L0623,C00623,36,Female,Single,1,Bachelors,Salaried,11773329,7939174,224219762,Personal,690,48,19.33,12097290,Active,0,Online,06-04-2024,Medan
+L0624,C00624,41,Female,Married,3,High School,Salaried,13530508,12823529,169866002,Mortgage,687,12,10.45,7709332,Active,0,Agent,18-07-2024,Bali
+L0625,C00625,31,Male,Married,3,Bachelors,Salaried,10552612,3254449,192968603,Mortgage,615,60,22.64,1627901,Active,0,Partner,02-12-2022,Surabaya
+L0626,C00626,57,Male,Married,1,Masters,Salaried,45643541,8994006,175314772,Personal,747,12,9.03,3981899,Active,0,Branch,12-07-2024,Bandung
+L0627,C00627,56,Female,Married,3,Masters,Salaried,36861707,4307910,216636666,Personal,621,36,8.88,14459034,Delinquent,0,Online,07-02-2024,Surabaya
+L0628,C00628,55,Female,Married,1,Masters,Salaried,11829313,9976122,380618350,Personal,777,36,11,7386676,Closed,0,Online,07-10-2023,Jakarta
+L0629,C00629,39,Male,Married,1,High School,Freelancer,50316734,3322918,398535200,Education,574,12,22.55,2588253,Active,0,Online,19-08-2025,Surabaya
+L0630,C00630,40,Male,Single,1,High School,Salaried,53272356,5271810,43600239,Mortgage,721,36,16.32,18460261,Active,1,Online,09-04-2024,Jakarta
+L0631,C00631,38,Male,Married,0,Bachelors,Salaried,19882694,4935371,430866386,Personal,609,48,20.61,16624763,Delinquent,0,Branch,15-09-2023,Medan
+L0632,C00632,61,Female,Married,3,Bachelors,Salaried,50920537,260102,446098845,Personal,724,60,11.65,5216101,Closed,0,Agent,15-08-2025,Bandung
+L0633,C00633,34,Male,Married,2,Bachelors,Salaried,35931929,5516825,94546581,Auto,589,60,15.84,9238439,Closed,0,Branch,16-08-2025,Jakarta
+L0634,C00634,35,Male,Married,2,High School,Salaried,14057483,5818528,145776002,BNPL,556,36,13.73,14343855,Restructured,0,Branch,07-04-2025,Surabaya
+L0635,C00635,51,Female,Married,3,High School,Salaried,9790287,8214372,291646948,Personal,723,48,21.25,11771600,Closed,0,Branch,23-11-2023,Surabaya
+L0636,C00636,21,Male,Single,1,High School,Freelancer,22030294,8536239,438466280,Personal,700,12,8.36,14633512,Active,0,Partner,27-12-2023,Medan
+L0637,C00637,23,Male,Married,2,Masters,Salaried,20446951,1343054,383831121,BNPL,760,36,11.9,19816498,Active,1,Online,02-03-2024,Bali
+L0638,C00638,36,Male,Single,2,High School,Contract,55700541,10722305,407448650,Personal,595,24,10.44,1661944,Restructured,0,Branch,26-03-2024,Bali
+L0639,C00639,43,Female,Single,3,Bachelors,Salaried,8101883,3159016,130378799,Personal,635,36,21.75,11643876,Active,0,Partner,15-11-2023,Surabaya
+L0640,C00640,31,Female,Married,2,High School,Salaried,27176072,1726334,13764993,Education,690,24,15.48,13850341,Active,1,Partner,16-06-2023,Bali
+L0641,C00641,32,Female,Divorced,1,Bachelors,Salaried,5715295,3353030,228413771,Mortgage,570,36,14.47,14376714,Active,0,Agent,08-02-2024,Bandung
+L0642,C00642,30,Female,Single,3,Bachelors,Salaried,23656014,1847199,467076533,Personal,550,36,15.19,17795119,Closed,0,Partner,27-11-2024,Bali
+L0643,C00643,52,Female,Married,1,Masters,Salaried,25777956,14960259,497722757,Personal,672,60,23.55,16367923,Restructured,0,Online,06-07-2025,Bandung
+L0644,C00644,36,Female,Married,2,Masters,Self-Employed,31158476,11596051,428229866,Personal,696,36,21.6,8100883,Active,0,Branch,02-01-2025,Surabaya
+L0645,C00645,28,Female,Single,2,Bachelors,Salaried,39608644,1638004,400617850,Personal,674,72,19.3,2661241,Active,0,Online,12-01-2023,Surabaya
+L0646,C00646,58,Male,Married,1,Masters,Freelancer,24135946,1729187,237915687,BNPL,737,48,12.65,14832962,Delinquent,0,Branch,31-01-2023,Surabaya
+L0647,C00647,32,Male,Married,0,PhD,Freelancer,42039433,11716383,115281515,Auto,582,36,10.64,11892542,Active,1,Branch,31-10-2023,Medan
+L0648,C00648,44,Female,Married,2,Masters,Salaried,7080563,4461595,66798428,Mortgage,553,48,22.74,11317704,Active,0,Branch,08-08-2025,Bali
+L0649,C00649,48,Male,Single,0,Masters,Salaried,30449640,5817676,292952058,Education,783,12,14.77,2401170,Delinquent,0,Agent,10-10-2022,Jakarta
+L0650,C00650,28,Male,Single,2,High School,Salaried,32006644,3460096,439526237,Auto,552,60,12.46,14026796,Active,0,Branch,03-12-2023,Jakarta
+L0651,C00651,48,Female,Married,0,Bachelors,Salaried,20956333,1330363,206988161,Personal,640,36,15.53,15865779,Active,0,Online,10-09-2023,Surabaya
+L0652,C00652,56,Male,Married,0,High School,Salaried,10243534,3446839,239233352,Auto,601,72,22.69,10846358,Closed,0,Online,22-10-2023,Bali
+L0653,C00653,46,Male,Single,0,High School,Salaried,37522999,3113506,179323886,Education,782,48,14.19,5608474,Active,0,Partner,17-12-2022,Bandung
+L0654,C00654,28,Male,Married,1,PhD,Salaried,16065982,12686447,291861889,BNPL,776,60,17,12765091,Delinquent,0,Online,14-10-2023,Jakarta
+L0655,C00655,48,Male,Single,0,Bachelors,Salaried,49667943,8167197,343952348,Personal,577,48,20.85,9922571,Active,0,Online,19-08-2025,Surabaya
+L0656,C00656,48,Male,Married,0,Masters,Contract,55457499,13630773,222222176,Mortgage,619,24,14.83,14721078,Active,0,Online,05-11-2022,Jakarta
+L0657,C00657,57,Female,Single,0,Masters,Self-Employed,24427743,13928440,377392457,Auto,747,24,11.74,15002202,Active,1,Branch,12-05-2025,Jakarta
+L0658,C00658,61,Female,Divorced,2,Masters,Freelancer,9861282,1561014,400267617,Education,732,36,23.91,19891552,Active,0,Online,01-01-2024,Jakarta
+L0659,C00659,56,Female,Single,0,PhD,Salaried,22572094,13305560,381998955,Personal,606,36,23.31,11941279,Delinquent,0,Agent,19-11-2024,Surabaya
+L0660,C00660,47,Male,Single,2,High School,Salaried,7053262,13166159,129091382,Auto,657,24,21.5,3888851,Closed,1,Agent,09-06-2023,Surabaya
+L0661,C00661,37,Female,Single,0,High School,Salaried,57268783,4589369,117725511,BNPL,764,60,19.01,5378023,Delinquent,0,Agent,20-01-2024,Medan
+L0662,C00662,29,Male,Single,0,Bachelors,Salaried,32707220,6621778,34336228,Auto,774,36,12.72,13383582,Active,1,Online,28-10-2023,Medan
+L0663,C00663,53,Male,Married,1,High School,Salaried,28226944,11208256,468671968,Auto,693,72,22.61,15801310,Closed,0,Agent,30-03-2023,Medan
+L0664,C00664,40,Male,Divorced,2,High School,Self-Employed,30392003,7531844,412354798,Personal,573,60,12.41,9539016,Active,0,Agent,15-11-2023,Jakarta
+L0665,C00665,33,Male,Single,0,Bachelors,Self-Employed,35234634,3257983,437219973,Personal,746,36,20.81,6923827,Delinquent,1,Agent,28-01-2023,Bali
+L0666,C00666,48,Female,Married,2,Masters,Salaried,40626603,6902066,310401899,Personal,718,60,22.69,19827342,Closed,0,Branch,13-11-2024,Surabaya
+L0667,C00667,49,Female,Married,2,Bachelors,Salaried,36125529,6073877,186968830,Education,783,36,17.65,6231308,Active,1,Partner,16-12-2022,Medan
+L0668,C00668,33,Male,Married,3,Bachelors,Salaried,33814268,13520599,340144871,Personal,626,60,20.85,19732815,Active,1,Online,09-04-2025,Bali
+L0669,C00669,55,Female,Married,1,Bachelors,Salaried,44014820,12042858,241326444,Auto,724,36,20.67,7638111,Active,1,Partner,20-02-2024,Medan
+L0670,C00670,26,Male,Single,1,High School,Salaried,52828630,13632620,279102994,Mortgage,625,36,11.09,8169165,Active,0,Online,07-01-2025,Medan
+L0671,C00671,38,Female,Married,1,High School,Salaried,59875988,8033651,48161887,Personal,618,36,18.69,12610247,Restructured,0,Online,15-06-2025,Bali
+L0672,C00672,25,Female,Married,3,Masters,Salaried,15867948,751972,62344986,Auto,650,36,9.5,11849069,Active,0,Agent,02-11-2024,Medan
+L0673,C00673,45,Male,Single,3,Bachelors,Contract,36496428,8648035,278196096,Mortgage,708,36,16.13,17953898,Active,1,Branch,24-05-2023,Jakarta
+L0674,C00674,22,Female,Married,1,Masters,Salaried,27889456,11966115,390565738,BNPL,641,36,10.6,19794203,Active,0,Online,19-08-2025,Jakarta
+L0675,C00675,30,Male,Single,3,High School,Self-Employed,6200346,3631171,48427123,Mortgage,641,24,14.66,15606381,Closed,0,Agent,17-04-2023,Jakarta
+L0676,C00676,50,Female,Married,3,Masters,Salaried,20115750,7973155,364384160,Mortgage,579,60,21.33,11187823,Active,0,Agent,25-11-2024,Bandung
+L0677,C00677,25,Male,Single,3,Bachelors,Salaried,30651111,10627763,308246653,Personal,567,36,23.79,15653523,Active,0,Online,15-04-2023,Medan
+L0678,C00678,53,Male,Married,1,Bachelors,Salaried,17372428,4976820,305548455,Education,593,36,13.09,18355294,Active,0,Partner,24-06-2023,Bandung
+L0679,C00679,21,Female,Married,1,Bachelors,Salaried,27991510,3743185,81370527,Personal,704,48,16.51,16412384,Closed,0,Online,11-07-2025,Surabaya
+L0680,C00680,38,Female,Married,1,Masters,Salaried,6760399,10746289,450218384,Mortgage,648,48,16.18,17524715,Active,1,Online,27-06-2024,Bali
+L0681,C00681,52,Male,Single,3,Bachelors,Self-Employed,19758076,14933672,255312381,Personal,703,72,23.27,17140807,Closed,0,Online,21-11-2023,Surabaya
+L0682,C00682,31,Female,Married,1,Bachelors,Self-Employed,11136062,11244433,162320775,Education,670,36,15.66,16165384,Active,1,Online,01-01-2023,Bandung
+L0683,C00683,41,Female,Married,3,PhD,Salaried,20593539,9102869,403379384,Mortgage,780,12,19.19,9797057,Active,0,Online,17-01-2024,Jakarta
+L0684,C00684,46,Male,Married,0,Masters,Salaried,50027943,12159041,375689129,Mortgage,790,36,22.75,3566436,Active,0,Online,21-07-2024,Medan
+L0685,C00685,45,Male,Married,3,Bachelors,Freelancer,17523855,5768212,341636321,Personal,664,36,13.97,7118313,Active,0,Agent,03-07-2023,Medan
+L0686,C00686,42,Female,Married,2,Masters,Salaried,55231966,14857827,237397768,Auto,609,60,22.43,4045236,Active,0,Branch,14-12-2024,Jakarta
+L0687,C00687,47,Male,Married,1,Bachelors,Salaried,28124788,12814719,86388727,Mortgage,695,36,22.68,13164078,Active,0,Partner,20-11-2024,Medan
+L0688,C00688,33,Male,Single,1,High School,Salaried,28212905,24363,71996450,Mortgage,774,72,22.89,15305541,Closed,0,Partner,24-12-2024,Bali
+L0689,C00689,53,Male,Married,2,Bachelors,Self-Employed,18663640,8783406,394108273,Personal,766,36,12.33,3552387,Active,0,Online,09-10-2022,Bali
+L0690,C00690,54,Female,Married,3,Masters,Contract,42697835,2045990,339434310,Education,605,72,14.41,4636402,Active,0,Agent,25-05-2023,Bali
+L0691,C00691,61,Female,Single,0,Masters,Salaried,40757963,5178652,408876110,BNPL,580,12,21.93,13428706,Delinquent,0,Partner,01-06-2024,Surabaya
+L0692,C00692,55,Male,Single,2,Bachelors,Freelancer,35635609,1385049,309448756,Personal,650,60,13.75,18270712,Active,0,Online,05-05-2023,Jakarta
+L0693,C00693,21,Female,Single,2,Bachelors,Freelancer,22846628,10487380,324984177,BNPL,608,60,17.6,15466248,Closed,0,Online,20-12-2024,Bali
+L0694,C00694,41,Male,Married,3,High School,Salaried,26192959,5567248,36846488,Auto,673,72,9.89,2519493,Delinquent,0,Partner,17-12-2023,Bandung
+L0695,C00695,26,Female,Married,1,PhD,Salaried,48975663,1498447,198095810,Auto,679,12,8.9,10657356,Active,0,Partner,14-02-2023,Bali
+L0696,C00696,48,Male,Married,3,PhD,Salaried,31401120,11629755,440297851,Personal,646,24,14.59,4714779,Closed,1,Partner,16-10-2024,Surabaya
+L0697,C00697,37,Male,Married,2,Bachelors,Contract,41857563,13275806,212089149,Auto,716,48,17.26,18977629,Active,0,Online,23-10-2022,Bandung
+L0698,C00698,25,Female,Married,2,Masters,Salaried,28043592,1545288,367588918,Mortgage,738,12,14.28,1831219,Active,0,Online,25-06-2024,Jakarta
+L0699,C00699,51,Male,Single,1,Masters,Self-Employed,35550539,12491230,341385773,Auto,784,12,17.24,2955683,Active,0,Branch,20-01-2023,Jakarta
+L0700,C00700,25,Female,Single,1,Bachelors,Salaried,58284676,14358477,437597975,Mortgage,656,24,16.24,9663609,Active,0,Branch,16-04-2025,Bali
+L0701,C00701,58,Female,Married,1,High School,Self-Employed,34977525,8182320,274193325,Mortgage,740,36,18.97,6598023,Active,0,Online,02-12-2024,Bandung
+L0702,C00702,23,Male,Single,3,Bachelors,Salaried,46044723,14860388,86080405,Mortgage,773,36,18.39,16175560,Active,0,Online,30-01-2023,Bandung
+L0703,C00703,43,Male,Single,1,Bachelors,Salaried,55729243,1595123,151405834,Personal,567,12,14.79,7483999,Active,0,Branch,25-02-2024,Bali
+L0704,C00704,57,Female,Married,2,Bachelors,Freelancer,11188343,12603567,345865519,BNPL,694,24,14.8,15110762,Active,0,Partner,09-11-2024,Bali
+L0705,C00705,57,Male,Married,2,Bachelors,Freelancer,53840802,10387693,300575367,Auto,775,36,10.25,2329020,Active,0,Online,07-01-2023,Medan
+L0706,C00706,30,Male,Divorced,0,Masters,Freelancer,42347524,9337741,103201190,Personal,716,36,16.21,9267102,Active,0,Branch,25-12-2022,Medan
+L0707,C00707,30,Male,Divorced,3,High School,Salaried,40285473,14572602,483592042,Personal,620,12,17.39,18177933,Active,0,Partner,27-02-2024,Bali
+L0708,C00708,39,Male,Married,0,Bachelors,Self-Employed,11113100,8839008,36577570,Auto,655,36,15.62,4147573,Active,1,Agent,13-12-2023,Surabaya
+L0709,C00709,37,Male,Married,2,Bachelors,Salaried,38389158,5264482,129870000,BNPL,603,60,13.21,8117069,Active,0,Online,23-11-2024,Medan
+L0710,C00710,41,Female,Married,0,Bachelors,Salaried,21468585,13249382,175856557,Personal,794,72,19.55,7741935,Active,1,Online,31-10-2022,Bali
+L0711,C00711,34,Female,Married,2,Bachelors,Salaried,21074092,12457913,41625253,Mortgage,776,72,9.19,10150262,Delinquent,0,Agent,13-09-2022,Bandung
+L0712,C00712,29,Male,Single,0,High School,Salaried,25367727,6130158,291764999,Personal,643,60,22.63,1996270,Delinquent,0,Online,16-08-2023,Medan
+L0713,C00713,21,Male,Married,1,High School,Salaried,7417209,1391538,302604725,Auto,625,36,8.33,9058430,Active,0,Partner,10-04-2025,Surabaya
+L0714,C00714,33,Male,Married,0,Bachelors,Contract,22304141,7219155,26806308,Education,584,48,23.4,4393416,Closed,0,Branch,05-12-2023,Jakarta
+L0715,C00715,24,Female,Single,1,Bachelors,Salaried,28534666,6817281,15113050,Mortgage,560,36,15.4,2595428,Active,0,Online,16-03-2023,Bandung
+L0716,C00716,21,Male,Married,1,High School,Self-Employed,7925609,6701810,68040667,Personal,610,48,14.6,18752155,Active,0,Branch,22-04-2023,Surabaya
+L0717,C00717,60,Female,Married,3,Masters,Salaried,34073829,4107560,494754977,Auto,593,24,12.1,15960435,Delinquent,0,Branch,18-07-2023,Surabaya
+L0718,C00718,52,Female,Single,1,Bachelors,Salaried,47699587,14411986,121439711,Personal,670,48,8.16,6338139,Active,0,Branch,06-04-2023,Surabaya
+L0719,C00719,54,Female,Single,1,Bachelors,Salaried,20041716,6993018,444183246,Auto,617,36,12.4,8357247,Delinquent,0,Online,26-12-2022,Bandung
+L0720,C00720,48,Male,Single,0,Masters,Freelancer,22383968,171236,262541675,Mortgage,574,12,9.75,15810641,Active,0,Agent,18-01-2023,Surabaya
+L0721,C00721,51,Female,Single,2,High School,Freelancer,56671110,3010129,433511934,Mortgage,725,48,18.56,4928408,Active,0,Branch,18-05-2024,Jakarta
+L0722,C00722,28,Male,Single,3,High School,Freelancer,15599528,89743,490041232,Personal,709,12,13.11,8221414,Active,0,Branch,04-06-2024,Medan
+L0723,C00723,59,Female,Married,1,Masters,Contract,12687268,13030787,68592416,Education,633,24,20.27,2752153,Active,0,Partner,13-02-2023,Bandung
+L0724,C00724,46,Male,Single,3,Bachelors,Salaried,37334591,7426187,114173230,Auto,663,12,11.31,12662807,Active,0,Branch,07-02-2024,Surabaya
+L0725,C00725,54,Female,Married,0,Bachelors,Salaried,12204425,4112924,477507053,Personal,772,36,22.4,19633935,Active,1,Partner,18-10-2022,Bali
+L0726,C00726,23,Male,Single,1,Masters,Self-Employed,10158570,1955206,206397363,Auto,681,12,16.37,2456851,Closed,1,Agent,04-08-2023,Medan
+L0727,C00727,32,Female,Divorced,0,Masters,Salaried,9823416,12476685,454196213,Mortgage,795,60,9.83,6815566,Active,0,Online,04-04-2025,Bandung
+L0728,C00728,21,Male,Single,3,PhD,Salaried,10210766,1138422,93491791,Auto,715,36,14.41,10542143,Active,0,Branch,23-11-2024,Bali
+L0729,C00729,64,Male,Married,0,Bachelors,Salaried,22914533,758795,295420252,Auto,794,36,11.31,15649173,Active,0,Agent,08-04-2023,Bali
+L0730,C00730,25,Male,Married,3,Bachelors,Salaried,10560068,7632738,128209544,Auto,740,24,11.19,8579349,Delinquent,0,Online,26-04-2024,Surabaya
+L0731,C00731,50,Male,Married,0,Bachelors,Salaried,41511964,13397380,405937568,Personal,724,48,16.1,4827573,Active,0,Online,14-10-2024,Bandung
+L0732,C00732,50,Female,Single,3,High School,Salaried,57498002,1764688,260882491,BNPL,550,48,18.75,19710027,Active,0,Agent,21-01-2023,Surabaya
+L0733,C00733,37,Female,Married,2,Bachelors,Salaried,38853621,2957817,308343536,Auto,680,48,22.59,6372625,Restructured,0,Partner,06-05-2023,Jakarta
+L0734,C00734,43,Male,Married,0,High School,Salaried,11508850,11093097,433202780,Personal,778,48,16.03,5248887,Active,0,Agent,06-01-2023,Bali
+L0735,C00735,35,Female,Married,0,Masters,Salaried,6559049,239647,276065100,Mortgage,635,60,23.45,2696941,Active,0,Online,31-10-2022,Jakarta
+L0736,C00736,57,Male,Single,2,Bachelors,Salaried,37707979,13962313,341514260,Education,611,60,23.07,1444846,Delinquent,0,Online,15-01-2023,Surabaya
+L0737,C00737,41,Male,Single,2,Bachelors,Self-Employed,11136821,12872874,287300921,Education,613,48,21.84,2159935,Closed,0,Online,03-02-2023,Medan
+L0738,C00738,34,Female,Married,0,Bachelors,Salaried,57706142,12482384,107581908,Personal,694,24,16,5866148,Active,0,Branch,19-11-2024,Bali
+L0739,C00739,22,Male,Married,2,High School,Salaried,14244561,4514153,372370244,Personal,675,48,10.25,5822724,Active,0,Branch,21-05-2024,Medan
+L0740,C00740,31,Male,Married,1,High School,Self-Employed,5504655,13127304,135840137,Auto,755,36,11.49,13049665,Closed,0,Online,12-12-2022,Bandung
+L0741,C00741,59,Female,Married,3,Bachelors,Salaried,50904675,12969392,267724165,Personal,654,48,18.36,17402675,Active,1,Online,03-06-2025,Bali
+L0742,C00742,58,Male,Married,3,High School,Salaried,38791256,12186528,365422322,Education,611,60,14.75,11371765,Delinquent,0,Branch,06-02-2025,Jakarta
+L0743,C00743,54,Male,Single,3,Bachelors,Self-Employed,14456587,6098915,50840312,Personal,584,48,10.35,4484840,Active,0,Branch,21-10-2022,Medan
+L0744,C00744,58,Male,Married,1,Masters,Salaried,24926625,3772515,482413836,Personal,799,60,15.66,17495658,Active,0,Online,16-10-2022,Bandung
+L0745,C00745,54,Male,Single,2,Masters,Self-Employed,26325219,2942609,206493376,Auto,562,12,8.28,7688064,Active,0,Agent,10-09-2022,Bali
+L0746,C00746,38,Female,Married,2,Bachelors,Self-Employed,21633956,10188808,339524499,Personal,712,12,19.74,16796444,Closed,0,Online,21-06-2023,Bandung
+L0747,C00747,50,Female,Married,0,High School,Self-Employed,59356930,8158781,479971768,Mortgage,592,24,9.18,3921984,Delinquent,0,Partner,03-02-2024,Jakarta
+L0748,C00748,35,Female,Divorced,2,Masters,Salaried,48631164,8813240,230322030,Auto,679,60,18.07,16121435,Closed,0,Partner,20-06-2025,Bali
+L0749,C00749,47,Male,Single,0,Masters,Salaried,34009204,1572732,359927725,Personal,733,60,20.69,8427925,Delinquent,0,Branch,10-07-2025,Bandung
+L0750,C00750,54,Male,Single,1,High School,Salaried,42720721,10329201,299203591,Personal,660,48,10.12,17521041,Active,1,Online,20-12-2022,Surabaya
+L0751,C00751,58,Female,Single,3,Masters,Salaried,32892650,9898445,303514761,Auto,754,48,16.3,1008981,Active,0,Online,26-11-2023,Bali
+L0752,C00752,53,Male,Single,3,High School,Salaried,48749282,8016792,197565000,Personal,677,48,20.47,4559976,Delinquent,0,Partner,12-05-2024,Bali
+L0753,C00753,44,Male,Single,3,Masters,Salaried,53633341,13941902,335321072,Mortgage,600,60,12.17,7607691,Delinquent,0,Online,19-09-2022,Bali
+L0754,C00754,35,Male,Divorced,2,PhD,Salaried,5093246,13834629,290961256,Auto,731,60,10.61,17884370,Delinquent,0,Partner,19-05-2023,Bali
+L0755,C00755,50,Male,Single,0,High School,Salaried,40922145,2740855,154738498,Mortgage,693,48,13.39,2728177,Closed,0,Agent,03-05-2024,Surabaya
+L0756,C00756,62,Female,Single,0,Masters,Salaried,31595432,9880233,257387018,Education,695,48,16.88,8816186,Active,0,Agent,17-06-2025,Jakarta
+L0757,C00757,37,Female,Married,1,Bachelors,Salaried,18443843,3340444,403776139,Education,684,24,17.2,13543142,Active,1,Branch,18-01-2025,Surabaya
+L0758,C00758,25,Female,Married,2,PhD,Self-Employed,25840284,3750222,236386840,Education,594,48,10.09,3904814,Delinquent,0,Partner,12-09-2023,Surabaya
+L0759,C00759,49,Male,Married,1,Bachelors,Salaried,40839230,1380188,493123888,Personal,713,36,15.32,18713400,Active,1,Agent,01-04-2023,Bandung
+L0760,C00760,24,Female,Single,0,Masters,Salaried,35380460,11516163,171345712,Personal,718,24,12.29,5857531,Active,0,Online,20-01-2025,Medan
+L0761,C00761,30,Female,Married,0,High School,Freelancer,40086769,7530577,456331096,Personal,771,60,21.47,11435379,Closed,1,Online,11-07-2025,Medan
+L0762,C00762,37,Male,Single,3,Bachelors,Salaried,39337998,3060465,405916298,BNPL,591,36,13.02,9073934,Active,0,Online,14-03-2024,Bandung
+L0763,C00763,30,Male,Single,2,High School,Salaried,49854299,6723000,58825789,Education,782,72,21.42,6199895,Delinquent,0,Online,18-08-2025,Surabaya
+L0764,C00764,37,Female,Divorced,0,PhD,Salaried,46151145,7770032,173615349,BNPL,684,24,14.86,4443737,Active,0,Partner,06-11-2022,Bandung
+L0765,C00765,40,Female,Single,3,Masters,Self-Employed,15456399,11558059,84125475,Personal,564,36,19.63,18499516,Closed,0,Branch,15-01-2025,Bali
+L0766,C00766,44,Female,Married,2,Masters,Salaried,54748555,2818767,47391910,Education,609,36,16.16,10957081,Closed,0,Partner,18-08-2025,Bandung
+L0767,C00767,25,Female,Married,1,Masters,Salaried,54978995,7864394,209764020,Auto,589,12,17.95,19912237,Active,0,Partner,21-01-2025,Bandung
+L0768,C00768,54,Male,Single,2,High School,Salaried,18118532,13920130,415434061,Personal,760,36,14.33,8538009,Active,0,Branch,28-04-2024,Bali
+L0769,C00769,26,Female,Married,2,Bachelors,Freelancer,39333537,12255218,13031863,Auto,784,24,20.29,17635257,Active,0,Branch,24-02-2023,Medan
+L0770,C00770,22,Female,Single,0,High School,Salaried,28874281,5864049,195699687,Personal,714,24,14.8,5692489,Active,0,Online,08-01-2024,Bali
+L0771,C00771,33,Male,Married,0,High School,Salaried,47860032,9850941,179367936,Auto,743,24,15.32,16812624,Active,0,Partner,01-02-2024,Jakarta
+L0772,C00772,63,Female,Divorced,2,High School,Freelancer,55551974,8958825,288892599,Personal,783,24,16.28,6070447,Active,0,Branch,15-11-2024,Bandung
+L0773,C00773,63,Male,Married,0,Bachelors,Salaried,37181087,8511807,63448821,Auto,661,48,21.31,13911308,Active,0,Branch,05-07-2025,Bandung
+L0774,C00774,31,Male,Divorced,0,High School,Freelancer,52447769,13863013,378130947,Mortgage,732,12,18.55,4487258,Active,0,Online,06-10-2024,Medan
+L0775,C00775,43,Male,Single,0,High School,Salaried,43067984,5531052,118715260,BNPL,626,48,13.59,14106758,Active,0,Agent,03-07-2025,Surabaya
+L0776,C00776,36,Female,Married,3,High School,Freelancer,45192367,6321001,165820829,Mortgage,781,48,18.73,15550703,Closed,0,Agent,05-01-2023,Bali
+L0777,C00777,51,Female,Single,3,High School,Salaried,8522810,14235345,181016971,Auto,654,36,18.28,6268681,Active,0,Branch,04-02-2025,Surabaya
+L0778,C00778,31,Male,Married,2,PhD,Self-Employed,50169498,10517433,461914530,BNPL,784,60,22.9,14325559,Delinquent,0,Branch,22-07-2024,Jakarta
+L0779,C00779,36,Female,Divorced,0,Masters,Freelancer,31612567,424190,96920012,Education,656,48,21.46,7275080,Closed,1,Partner,16-06-2024,Bali
+L0780,C00780,28,Female,Single,3,PhD,Salaried,27257570,6743571,211948339,Personal,796,48,18.36,4610566,Closed,0,Online,20-09-2023,Jakarta
+L0781,C00781,24,Male,Married,2,Bachelors,Salaried,45129705,14047801,121547806,Auto,671,24,13.46,12327727,Delinquent,0,Online,25-05-2024,Jakarta
+L0782,C00782,60,Male,Single,0,High School,Salaried,14289461,13471855,54787557,Personal,772,48,20.47,18545242,Active,0,Branch,19-06-2024,Jakarta
+L0783,C00783,24,Female,Married,1,Masters,Salaried,52751078,13986776,330048362,Personal,629,60,17.2,5926423,Delinquent,1,Online,23-06-2023,Bali
+L0784,C00784,45,Male,Married,0,Bachelors,Salaried,9447321,3472696,249504214,Mortgage,783,36,23.76,7307676,Active,0,Branch,27-09-2023,Bali
+L0785,C00785,23,Female,Divorced,0,High School,Salaried,22429040,2120677,193431875,BNPL,674,24,11.96,14907024,Delinquent,0,Branch,24-03-2023,Medan
+L0786,C00786,52,Female,Married,3,High School,Salaried,51470589,11067852,333190579,Personal,733,36,9.27,8818835,Delinquent,0,Online,27-10-2024,Bandung
+L0787,C00787,23,Female,Single,2,High School,Salaried,41460837,14826179,323898063,BNPL,721,48,9.12,18172678,Active,0,Online,08-08-2025,Surabaya
+L0788,C00788,47,Female,Single,2,High School,Salaried,9569146,11611597,111646357,BNPL,734,36,18.24,1148306,Active,0,Online,24-06-2025,Surabaya
+L0789,C00789,49,Male,Single,3,Bachelors,Self-Employed,24248072,13340512,178068572,Education,683,48,23.03,10271230,Active,0,Online,06-04-2023,Jakarta
+L0790,C00790,52,Male,Single,0,Bachelors,Salaried,35802755,2597979,460995018,Personal,769,12,8.03,4006374,Closed,0,Branch,12-03-2024,Bali
+L0791,C00791,39,Male,Single,1,High School,Salaried,24916998,10404915,322950199,Education,581,60,19.61,18300102,Active,1,Branch,31-01-2023,Bali
+L0792,C00792,41,Male,Married,0,High School,Salaried,32543766,7524132,423427424,Personal,657,24,18.51,18376709,Active,0,Agent,31-05-2024,Jakarta
+L0793,C00793,25,Female,Married,0,Masters,Salaried,36581057,8294919,88384697,Auto,751,24,19.72,6243962,Active,0,Online,29-03-2023,Bandung
+L0794,C00794,38,Female,Married,1,High School,Salaried,56981872,12350251,373943004,Personal,663,36,13.69,6647244,Active,0,Partner,22-05-2025,Surabaya
+L0795,C00795,48,Male,Single,3,Bachelors,Salaried,23125271,2104417,41601658,Personal,695,12,21.13,11461159,Restructured,0,Online,30-08-2025,Medan
+L0796,C00796,62,Female,Married,2,Masters,Salaried,31021607,9197803,226183910,Mortgage,617,12,8.72,12848432,Closed,1,Branch,26-03-2023,Bandung
+L0797,C00797,42,Female,Married,3,High School,Freelancer,26872886,5449604,88193035,Auto,676,24,20.09,9367568,Active,1,Branch,31-07-2025,Bali
+L0798,C00798,41,Female,Single,3,High School,Salaried,7230653,12598645,53441158,Personal,750,36,12.27,11522479,Active,1,Branch,17-03-2025,Jakarta
+L0799,C00799,26,Male,Married,0,Bachelors,Self-Employed,35712798,898628,171184383,Personal,684,60,15.63,5176213,Active,1,Partner,28-11-2022,Surabaya
+L0800,C00800,21,Male,Married,2,Bachelors,Self-Employed,39139374,3761054,112257658,Mortgage,663,60,21.16,12987005,Active,0,Online,02-03-2024,Jakarta
+L0801,C00801,25,Male,Single,2,Bachelors,Self-Employed,43118302,2396716,307341494,Personal,557,36,12.34,4840624,Delinquent,0,Online,16-09-2023,Bali
+L0802,C00802,61,Female,Married,3,Masters,Freelancer,6420654,14670472,121120614,BNPL,613,12,10.96,13764588,Active,0,Partner,25-05-2024,Jakarta
+L0803,C00803,32,Male,Married,1,High School,Salaried,49160167,13609193,206584297,Personal,784,36,18.9,8784081,Active,0,Online,05-06-2025,Surabaya
+L0804,C00804,46,Male,Single,3,Bachelors,Salaried,13355425,10944125,318308541,Personal,684,48,16.53,17660183,Delinquent,1,Online,21-05-2023,Jakarta
+L0805,C00805,54,Male,Divorced,1,Bachelors,Freelancer,20806167,9458242,411232111,Personal,590,24,16.23,5786431,Delinquent,0,Online,04-05-2025,Surabaya
+L0806,C00806,34,Male,Married,2,High School,Salaried,6481177,10732061,321386201,Auto,589,12,12.11,15073601,Active,0,Online,06-11-2024,Jakarta
+L0807,C00807,46,Male,Married,3,Bachelors,Salaried,21944207,9734257,184172391,Personal,552,24,8.56,9476353,Active,1,Branch,15-02-2023,Jakarta
+L0808,C00808,47,Male,Married,0,High School,Self-Employed,26068472,9390283,353695816,Personal,694,48,14.56,16106292,Active,0,Branch,01-08-2025,Surabaya
+L0809,C00809,29,Female,Married,3,Bachelors,Self-Employed,8992942,2057244,367361896,Education,743,36,9.7,5891447,Closed,1,Online,16-12-2023,Jakarta
+L0810,C00810,46,Female,Married,2,High School,Freelancer,26437326,14842498,201705441,Mortgage,756,60,22.5,6197535,Restructured,0,Online,27-11-2023,Bandung
+L0811,C00811,42,Male,Married,0,Bachelors,Contract,31041882,2707929,310721132,Personal,659,24,8.66,6704411,Active,0,Partner,18-10-2023,Medan
+L0812,C00812,50,Male,Single,0,Bachelors,Self-Employed,21162243,14240440,272829388,Auto,770,24,14.91,11176310,Active,0,Partner,27-06-2023,Bandung
+L0813,C00813,63,Female,Married,1,Masters,Salaried,10914063,12237052,218777654,BNPL,663,36,8.84,4585435,Delinquent,0,Agent,18-05-2025,Medan
+L0814,C00814,37,Female,Married,0,High School,Freelancer,32308991,10563357,371026934,Personal,661,36,9.53,3317165,Closed,0,Agent,21-10-2023,Bandung
+L0815,C00815,46,Male,Married,0,Bachelors,Salaried,52463403,11531144,288740259,Personal,729,12,18.54,16131864,Restructured,0,Agent,21-03-2023,Medan
+L0816,C00816,56,Male,Single,3,Bachelors,Salaried,33834717,10229657,432977880,Mortgage,699,12,18.35,1799235,Active,1,Partner,29-05-2023,Jakarta
+L0817,C00817,21,Male,Married,2,Masters,Freelancer,34754050,4272513,399663383,Mortgage,553,24,8.53,13596610,Active,0,Branch,20-12-2022,Surabaya
+L0818,C00818,28,Male,Single,1,Bachelors,Salaried,46516245,3928125,143225899,Auto,798,12,8.02,8243520,Active,0,Online,18-01-2025,Surabaya
+L0819,C00819,55,Female,Single,3,Bachelors,Salaried,11962544,4125186,188657409,Personal,793,24,9.26,11761021,Active,0,Branch,01-03-2025,Bali
+L0820,C00820,35,Male,Single,0,Masters,Salaried,26896021,3338669,417181452,Personal,683,72,20.21,11722351,Active,1,Online,07-08-2024,Medan
+L0821,C00821,42,Male,Single,0,Masters,Freelancer,23322545,12210755,28999710,Mortgage,715,36,17.35,8265341,Active,0,Partner,02-05-2024,Bali
+L0822,C00822,34,Male,Married,1,Bachelors,Salaried,20395832,9012760,355597020,Personal,575,48,8.61,15062660,Active,0,Branch,25-06-2023,Bali
+L0823,C00823,46,Male,Married,2,Bachelors,Self-Employed,58404401,8302258,39696625,Auto,688,36,15.81,7287206,Delinquent,0,Branch,28-10-2023,Medan
+L0824,C00824,48,Female,Single,1,Masters,Salaried,55723318,10634380,362809243,Auto,767,24,19.39,6461730,Active,0,Online,21-01-2025,Surabaya
+L0825,C00825,43,Female,Married,3,PhD,Self-Employed,26403259,7738667,228195899,Personal,566,12,21.9,1687055,Closed,1,Branch,08-02-2024,Medan
+L0826,C00826,34,Female,Married,1,Masters,Self-Employed,31860336,4360866,468575770,Education,765,36,22.94,14422577,Active,0,Online,18-04-2025,Jakarta
+L0827,C00827,44,Male,Married,0,Bachelors,Salaried,12627339,2304310,40590606,BNPL,641,36,13.24,2421742,Delinquent,0,Online,02-05-2023,Bali
+L0828,C00828,22,Male,Single,3,High School,Salaried,17207414,976264,178665310,Mortgage,776,24,10.17,19241510,Active,1,Online,31-10-2022,Bali
+L0829,C00829,46,Female,Married,0,Bachelors,Salaried,51876471,12482177,25090407,Personal,580,48,11.79,12493605,Closed,0,Online,14-04-2024,Medan
+L0830,C00830,34,Male,Divorced,2,Masters,Contract,39904771,12869365,25974862,Personal,754,36,20.42,15772593,Active,0,Branch,26-08-2023,Bali
+L0831,C00831,27,Male,Married,0,Bachelors,Self-Employed,16808606,8323880,268164256,Auto,795,24,23.54,19292913,Active,0,Branch,19-01-2023,Surabaya
+L0832,C00832,23,Female,Single,0,Bachelors,Freelancer,8734942,7299243,354468755,Personal,712,12,15.46,17168345,Closed,0,Partner,03-05-2023,Bali
+L0833,C00833,43,Female,Single,1,Masters,Salaried,13429241,13703743,185814313,Education,693,36,12.89,2673783,Active,0,Branch,23-11-2022,Medan
+L0834,C00834,63,Female,Married,0,Bachelors,Self-Employed,14440501,3928094,177556235,Personal,756,48,14.87,7765837,Active,1,Online,11-09-2023,Surabaya
+L0835,C00835,38,Female,Divorced,3,Masters,Self-Employed,51444468,11354091,389537096,Auto,656,24,12.88,17678093,Delinquent,0,Agent,15-04-2024,Surabaya
+L0836,C00836,58,Male,Married,3,Bachelors,Self-Employed,38222862,5795886,300731030,Personal,695,24,12.1,1472803,Delinquent,0,Branch,10-08-2025,Bali
+L0837,C00837,55,Male,Married,2,Bachelors,Contract,48821206,12808321,269944391,Mortgage,660,36,17.5,2534851,Active,0,Branch,06-04-2023,Medan
+L0838,C00838,35,Female,Single,3,Bachelors,Salaried,18294235,6531423,466924895,Personal,650,24,8.25,15354158,Active,0,Branch,01-04-2023,Bali
+L0839,C00839,45,Male,Married,1,Masters,Salaried,59182052,2790353,169805295,Auto,661,48,12.15,1593695,Active,0,Partner,18-04-2025,Jakarta
+L0840,C00840,57,Female,Married,2,High School,Self-Employed,52553428,5185356,235328397,Personal,611,48,18.58,19423889,Active,0,Online,18-10-2023,Jakarta
+L0841,C00841,48,Female,Single,3,High School,Self-Employed,46347022,13321837,372273626,BNPL,661,12,8.51,5090617,Restructured,0,Online,14-11-2023,Surabaya
+L0842,C00842,30,Male,Married,1,PhD,Salaried,16811984,11449924,120682776,Personal,790,12,9.33,5813417,Active,0,Partner,17-08-2023,Bali
+L0843,C00843,59,Female,Divorced,3,High School,Salaried,7821105,2465849,179297228,Education,782,48,12.69,6115068,Active,0,Online,15-12-2022,Jakarta
+L0844,C00844,37,Male,Single,3,Bachelors,Salaried,53654372,2933865,409868918,BNPL,704,24,22.04,10534473,Restructured,0,Partner,26-11-2022,Bandung
+L0845,C00845,59,Male,Married,0,Bachelors,Salaried,48843986,6667051,359842028,Personal,796,12,20.24,18197345,Active,0,Branch,19-07-2025,Jakarta
+L0846,C00846,42,Male,Single,3,Bachelors,Salaried,39480541,7587145,343333534,Mortgage,712,48,8.35,7349244,Closed,0,Branch,04-06-2024,Bali
+L0847,C00847,46,Male,Married,3,Bachelors,Self-Employed,29436780,6030079,322542948,Personal,665,24,16.03,12213351,Active,0,Partner,30-03-2024,Bali
+L0848,C00848,64,Female,Married,1,High School,Self-Employed,27232465,14028599,408850287,Education,722,36,12.39,5346048,Active,0,Online,17-06-2025,Jakarta
+L0849,C00849,45,Male,Married,1,Bachelors,Salaried,21308429,8970922,240627193,Auto,795,24,18.38,19657568,Active,0,Partner,10-03-2024,Bali
+L0850,C00850,37,Female,Married,0,Bachelors,Salaried,22485885,6147454,73721834,Personal,584,48,19.54,6103555,Active,0,Agent,24-07-2024,Bali
+L0851,C00851,33,Female,Single,3,Bachelors,Salaried,9227939,7907288,466321845,Personal,577,24,21.81,7775951,Active,0,Branch,12-09-2024,Bandung
+L0852,C00852,40,Female,Divorced,0,High School,Salaried,57639187,12229793,441793540,Personal,652,72,15.61,4448196,Active,0,Agent,20-11-2024,Surabaya
+L0853,C00853,45,Female,Married,3,Bachelors,Self-Employed,24374098,2505700,219043084,Education,674,48,23.91,10944929,Active,0,Online,09-03-2024,Bali
+L0854,C00854,24,Male,Single,2,High School,Freelancer,17353900,145693,139073819,Personal,651,12,23.68,5888362,Active,0,Partner,22-04-2024,Medan
+L0855,C00855,30,Male,Married,2,High School,Salaried,42501958,1649734,289907626,Mortgage,686,36,22.11,8155057,Active,0,Online,05-02-2025,Surabaya
+L0856,C00856,23,Female,Married,0,High School,Self-Employed,45988408,12076798,129576408,Auto,753,36,17.2,12658111,Active,0,Online,17-12-2023,Surabaya
+L0857,C00857,61,Female,Single,0,High School,Freelancer,47670507,9299397,98458610,Education,692,36,14.37,9467351,Active,1,Online,08-07-2023,Medan
+L0858,C00858,38,Male,Married,0,Masters,Freelancer,59981748,885621,83267246,Personal,570,60,13.83,9736394,Closed,0,Online,07-03-2024,Jakarta
+L0859,C00859,56,Female,Divorced,1,High School,Salaried,24776067,12881730,373417574,Auto,601,36,8.19,15256140,Active,0,Online,10-03-2025,Bandung
+L0860,C00860,42,Male,Single,1,Masters,Contract,8661306,561548,473330118,Auto,712,12,11.99,6748413,Active,0,Agent,05-07-2024,Bali
+L0861,C00861,54,Female,Divorced,1,PhD,Salaried,15412577,13542914,25049125,Mortgage,783,48,19.5,9342490,Closed,0,Partner,25-02-2025,Jakarta
+L0862,C00862,28,Male,Single,0,Bachelors,Salaried,39551489,8063001,45886559,Personal,646,12,17.66,16993171,Active,1,Online,21-10-2023,Medan
+L0863,C00863,60,Female,Single,3,High School,Salaried,35674998,9093432,255894722,Personal,600,48,22.66,11413929,Closed,0,Online,23-09-2022,Bandung
+L0864,C00864,64,Female,Single,2,Bachelors,Salaried,21102153,14876055,79183142,Personal,632,48,8.8,10117535,Closed,0,Partner,14-11-2022,Bandung
+L0865,C00865,39,Male,Married,0,Masters,Salaried,20485919,10221108,137847972,Mortgage,604,24,10.48,14764359,Active,0,Online,06-11-2024,Bandung
+L0866,C00866,62,Female,Married,1,Bachelors,Salaried,8674153,4379845,367305462,Personal,764,24,20.63,5313399,Active,0,Online,12-06-2023,Medan
+L0867,C00867,61,Female,Single,1,High School,Salaried,9748584,14697258,288969329,Auto,626,48,13.74,1951399,Restructured,0,Branch,26-06-2024,Jakarta
+L0868,C00868,57,Male,Married,0,Bachelors,Freelancer,36305676,7150265,232437973,Personal,676,48,9.89,7381906,Active,0,Branch,08-10-2022,Bali
+L0869,C00869,26,Female,Married,0,Masters,Freelancer,29080614,1703728,388568061,BNPL,721,36,23.94,13164293,Delinquent,0,Online,01-11-2024,Bandung
+L0870,C00870,46,Male,Single,1,Masters,Salaried,7212292,4762315,111941639,Education,742,24,20.6,10255211,Active,0,Partner,13-03-2024,Bandung
+L0871,C00871,54,Male,Married,3,High School,Freelancer,59701945,3377136,176067152,Auto,792,36,14.54,17162235,Active,0,Branch,28-09-2023,Jakarta
+L0872,C00872,26,Female,Married,1,Bachelors,Freelancer,36054217,468451,449239731,Personal,642,12,21.17,3404710,Active,0,Online,29-03-2023,Bandung
+L0873,C00873,57,Female,Married,1,High School,Self-Employed,25395529,11776449,10690778,Personal,637,12,18.89,13131695,Active,0,Agent,17-01-2025,Bandung
+L0874,C00874,53,Female,Divorced,0,High School,Salaried,33116325,11610634,47598496,Personal,629,12,20.64,16807231,Active,0,Branch,02-05-2025,Medan
+L0875,C00875,42,Female,Married,3,Masters,Self-Employed,39938842,4777830,303779437,Personal,702,24,21.04,17738345,Closed,0,Online,25-12-2022,Surabaya
+L0876,C00876,41,Female,Divorced,1,High School,Freelancer,15695807,259425,76603344,Mortgage,796,36,9.36,5460745,Delinquent,1,Online,11-04-2024,Jakarta
+L0877,C00877,26,Female,Married,1,High School,Self-Employed,19174898,14261209,301847371,Auto,764,72,17.97,14216713,Delinquent,1,Online,23-09-2023,Jakarta
+L0878,C00878,26,Female,Married,2,High School,Salaried,30451924,8899217,129791471,Education,641,48,8.11,13449436,Active,0,Branch,05-06-2025,Jakarta
+L0879,C00879,24,Male,Single,0,Masters,Salaried,17646791,7604323,273875821,Personal,596,12,8.7,16552975,Delinquent,0,Online,19-01-2025,Medan
+L0880,C00880,50,Female,Married,2,Masters,Self-Employed,12330395,6259635,435389722,Mortgage,757,36,22.46,11621840,Delinquent,1,Branch,02-09-2024,Medan
+L0881,C00881,31,Male,Married,2,Bachelors,Salaried,40603312,4494893,351580527,Auto,784,36,16.44,13730804,Delinquent,0,Online,30-01-2024,Bali
+L0882,C00882,50,Female,Single,1,Masters,Salaried,7469606,13292075,304831239,Auto,733,12,19.77,9853372,Active,0,Branch,16-06-2025,Medan
+L0883,C00883,51,Female,Single,0,High School,Salaried,51861389,10481941,291763222,Personal,587,60,21.42,3250477,Closed,0,Partner,13-05-2024,Jakarta
+L0884,C00884,44,Male,Married,3,Bachelors,Freelancer,58370964,9019066,197893243,Auto,688,36,23.19,14529652,Active,0,Branch,15-11-2022,Bali
+L0885,C00885,29,Female,Married,1,Bachelors,Freelancer,6045533,1968093,469347305,Auto,744,72,21.91,5254567,Active,0,Branch,02-08-2023,Surabaya
+L0886,C00886,23,Female,Married,3,High School,Salaried,39840276,2444913,290780156,Mortgage,564,36,15.73,7914996,Restructured,0,Agent,24-07-2023,Bandung
+L0887,C00887,51,Male,Married,3,Bachelors,Contract,9673584,6504938,264301040,Education,550,48,13.38,2167208,Active,0,Branch,05-05-2024,Bandung
+L0888,C00888,60,Female,Single,0,Masters,Salaried,31722056,7131390,219507903,Personal,684,12,10.47,9201319,Active,0,Online,02-02-2023,Bali
+L0889,C00889,57,Female,Married,2,High School,Self-Employed,5787600,3787132,41959674,Personal,550,36,14.41,2322924,Delinquent,0,Branch,21-09-2022,Surabaya
+L0890,C00890,56,Female,Single,0,High School,Self-Employed,43056004,3809821,208795517,Auto,598,24,13.86,10449136,Active,0,Partner,10-04-2023,Bandung
+L0891,C00891,44,Male,Married,3,High School,Freelancer,21419897,9184519,347202652,Auto,645,60,16.95,12617659,Delinquent,0,Online,24-03-2025,Bali
+L0892,C00892,51,Female,Married,1,High School,Freelancer,45516280,13182561,366772977,Personal,750,48,18.65,7976192,Closed,0,Online,02-09-2023,Medan
+L0893,C00893,26,Female,Married,3,Masters,Salaried,10557821,10113848,376008847,Mortgage,706,60,23.65,2770020,Active,1,Branch,09-12-2022,Jakarta
+L0894,C00894,22,Female,Married,1,Bachelors,Freelancer,40040051,8817518,266677008,Education,575,48,19.65,9531320,Active,1,Branch,20-05-2024,Surabaya
+L0895,C00895,40,Female,Single,1,Bachelors,Salaried,57170172,11658568,161766223,Education,636,60,18.3,13871493,Closed,1,Partner,07-05-2024,Bandung
+L0896,C00896,48,Male,Married,0,Masters,Self-Employed,32817637,4037746,68408466,Personal,722,24,13.36,16458874,Active,0,Online,24-02-2025,Jakarta
+L0897,C00897,31,Male,Married,3,High School,Self-Employed,21899242,81171,107536375,BNPL,784,36,8.55,16943416,Delinquent,0,Online,12-03-2023,Bali
+L0898,C00898,24,Female,Married,2,Bachelors,Self-Employed,54313342,10862055,349619319,Mortgage,642,48,12.61,16231215,Delinquent,0,Agent,18-01-2024,Bandung
+L0899,C00899,35,Female,Single,3,Bachelors,Salaried,43676626,2183448,111326727,Auto,793,48,20.3,13888437,Active,0,Online,29-05-2023,Jakarta
+L0900,C00900,26,Male,Married,3,Bachelors,Freelancer,14670115,1189138,287401765,Auto,651,48,11.28,18220388,Active,0,Online,09-10-2024,Medan
+L0901,C00901,50,Male,Married,2,PhD,Salaried,50153952,2249476,176356517,BNPL,774,24,19.4,10380638,Delinquent,0,Branch,19-11-2023,Surabaya
+L0902,C00902,58,Female,Single,0,Masters,Salaried,15993292,2759374,61920052,Auto,620,12,17.28,13868957,Active,0,Partner,05-06-2024,Bali
+L0903,C00903,22,Male,Single,3,Bachelors,Self-Employed,56066701,14921599,221520348,Personal,689,60,10.75,19799279,Active,0,Partner,08-10-2024,Bandung
+L0904,C00904,35,Female,Married,3,Masters,Salaried,5562167,13963591,292137192,Auto,644,36,12.19,17639758,Delinquent,0,Agent,27-06-2025,Medan
+L0905,C00905,31,Male,Married,1,High School,Freelancer,16508320,9840850,215219417,Auto,709,24,15.94,18535118,Delinquent,0,Online,01-01-2023,Surabaya
+L0906,C00906,28,Male,Single,3,High School,Salaried,30477565,3463894,367674910,Personal,667,48,14.69,8163068,Closed,0,Online,22-01-2024,Surabaya
+L0907,C00907,46,Male,Single,2,High School,Salaried,52093980,783258,449078699,Education,697,60,20.46,1366099,Active,0,Online,23-09-2023,Medan
+L0908,C00908,64,Male,Single,1,Bachelors,Freelancer,51140970,1896999,354542651,Mortgage,668,24,19.75,8079981,Closed,1,Partner,12-03-2023,Bandung
+L0909,C00909,25,Female,Single,0,Bachelors,Salaried,23436016,13803487,467723211,Mortgage,600,60,17.19,11319935,Closed,0,Branch,02-09-2025,Surabaya
+L0910,C00910,26,Male,Married,1,Bachelors,Salaried,14932579,2852889,287107190,Personal,630,60,21.16,13525186,Delinquent,0,Online,10-04-2023,Bali
+L0911,C00911,46,Male,Married,2,Masters,Self-Employed,40362169,7297050,100428304,Mortgage,585,60,17,16634890,Restructured,0,Partner,30-10-2022,Jakarta
+L0912,C00912,24,Female,Married,2,Bachelors,Salaried,8751531,9749181,12644046,Personal,616,60,23.43,6895882,Active,1,Online,06-01-2024,Bali
+L0913,C00913,39,Male,Married,1,Bachelors,Self-Employed,46474142,7371858,328501448,Personal,678,36,11.48,16820184,Closed,0,Branch,17-04-2023,Surabaya
+L0914,C00914,40,Male,Single,0,High School,Salaried,58362949,10266495,272023078,Auto,663,36,19.43,6330605,Restructured,0,Partner,25-12-2024,Jakarta
+L0915,C00915,53,Female,Married,1,High School,Freelancer,16233080,1761201,223864361,Auto,704,12,13.92,5304979,Active,1,Online,24-01-2024,Medan
+L0916,C00916,40,Male,Married,0,Bachelors,Freelancer,19209920,2337180,56910127,Auto,794,12,12.46,15661065,Active,0,Online,20-08-2023,Jakarta
+L0917,C00917,32,Female,Divorced,1,Bachelors,Self-Employed,21921670,3485862,55322635,Personal,660,36,10.89,3956181,Delinquent,0,Online,12-07-2025,Jakarta
+L0918,C00918,21,Female,Married,2,Masters,Salaried,38034169,1400507,117066975,Auto,717,36,16.84,6458076,Active,0,Online,29-09-2022,Jakarta
+L0919,C00919,46,Female,Single,3,High School,Freelancer,18019354,13848744,183586264,Personal,774,24,11.45,16304008,Active,0,Online,26-10-2023,Surabaya
+L0920,C00920,34,Female,Married,3,High School,Self-Employed,29458772,4235040,483525350,Education,761,36,11.21,13879420,Active,0,Branch,11-11-2024,Bandung
+L0921,C00921,58,Male,Single,0,Bachelors,Self-Employed,38808475,5529554,61257745,Auto,691,24,23.85,8971391,Active,0,Online,06-10-2023,Surabaya
+L0922,C00922,57,Female,Married,0,High School,Salaried,26614718,12792036,213310030,Mortgage,649,60,20.83,18793703,Active,0,Agent,24-12-2023,Bandung
+L0923,C00923,31,Male,Single,0,High School,Freelancer,49503119,7518162,31971167,Personal,746,24,19.97,7434548,Active,0,Online,04-12-2023,Medan
+L0924,C00924,56,Male,Single,2,Masters,Self-Employed,43369079,10953070,93399173,Personal,764,36,20.7,4728489,Restructured,0,Online,22-05-2024,Medan
+L0925,C00925,33,Male,Married,1,High School,Salaried,44185645,7676431,496922873,Education,658,36,23.5,10609533,Closed,0,Online,13-08-2024,Medan
+L0926,C00926,63,Male,Single,2,Bachelors,Salaried,43478806,2757398,63436651,Personal,669,12,17.17,11441909,Closed,0,Partner,27-02-2025,Medan
+L0927,C00927,23,Male,Married,3,High School,Freelancer,20601011,388742,397739050,Auto,628,60,11.52,13598587,Active,0,Branch,01-08-2025,Medan
+L0928,C00928,53,Male,Single,0,High School,Salaried,6845733,10710553,62842611,Mortgage,683,36,21.8,17733956,Closed,0,Partner,02-12-2022,Bali
+L0929,C00929,26,Male,Married,1,Bachelors,Contract,29682651,9031519,260129570,Personal,710,24,19.88,14749872,Closed,0,Partner,15-06-2023,Surabaya
+L0930,C00930,30,Male,Married,3,Masters,Self-Employed,59636036,676935,380852065,BNPL,732,24,14.63,18904021,Closed,0,Agent,18-02-2025,Bandung
+L0931,C00931,25,Male,Married,3,Bachelors,Self-Employed,14402999,10073732,62717797,Auto,568,24,15.58,6594181,Active,0,Partner,08-06-2023,Medan
+L0932,C00932,43,Male,Single,3,Masters,Salaried,20025940,11511913,382580343,Personal,676,12,14.58,10657503,Active,0,Online,28-01-2025,Bali
+L0933,C00933,30,Female,Single,2,High School,Salaried,12321105,13015771,272295733,Personal,754,36,22.88,19455791,Delinquent,1,Partner,09-09-2022,Bali
+L0934,C00934,64,Female,Single,0,Masters,Freelancer,55804654,12461940,451974008,Personal,578,36,13.5,8974410,Closed,0,Agent,02-02-2023,Bali
+L0935,C00935,22,Female,Single,3,High School,Salaried,10584581,7793604,147020733,BNPL,738,60,23.42,7228462,Closed,0,Agent,30-12-2022,Surabaya
+L0936,C00936,33,Male,Married,0,Bachelors,Self-Employed,52869970,401072,461530692,Mortgage,747,48,22.56,9340134,Active,0,Online,19-12-2024,Medan
+L0937,C00937,60,Female,Divorced,2,Bachelors,Salaried,30239392,6722841,321664849,Personal,756,12,18.09,8017718,Active,0,Branch,18-12-2022,Bali
+L0938,C00938,22,Female,Married,3,Masters,Salaried,45810732,2095637,62596367,Personal,757,12,17.28,12298657,Closed,0,Online,22-11-2022,Bali
+L0939,C00939,40,Female,Married,2,Bachelors,Salaried,39751874,2788302,82365447,Mortgage,573,36,13.92,7061598,Active,0,Online,14-10-2022,Medan
+L0940,C00940,21,Male,Married,2,High School,Salaried,39753961,7843227,157771224,Auto,700,24,8.29,10491979,Closed,0,Partner,31-05-2023,Surabaya
+L0941,C00941,57,Male,Married,0,High School,Contract,6790228,5581472,88542943,Auto,789,12,10.04,9297714,Restructured,0,Agent,21-02-2023,Bali
+L0942,C00942,29,Male,Single,3,Masters,Salaried,12052514,9344618,400002521,Personal,559,60,20.07,18511759,Closed,0,Branch,29-05-2024,Bandung
+L0943,C00943,37,Male,Divorced,2,Bachelors,Salaried,24100392,11909910,249979251,Personal,731,12,15.54,13686757,Active,0,Partner,02-05-2024,Jakarta
+L0944,C00944,29,Female,Married,3,Masters,Salaried,48172391,9131872,424245973,Mortgage,654,60,10.4,2360706,Active,0,Online,28-01-2025,Jakarta
+L0945,C00945,31,Female,Married,0,High School,Salaried,53325784,8269841,481423390,Education,718,12,12.22,10349313,Closed,0,Online,03-05-2023,Jakarta
+L0946,C00946,35,Female,Single,2,Bachelors,Salaried,13860286,4859633,294665834,Personal,726,72,23.17,14543731,Delinquent,0,Branch,18-03-2023,Surabaya
+L0947,C00947,44,Female,Married,0,High School,Freelancer,49925925,4468852,19208201,Auto,694,48,13.87,17066180,Active,0,Online,19-08-2025,Bali
+L0948,C00948,58,Male,Married,3,PhD,Salaried,11017004,7742237,38498615,Auto,790,48,22.52,4987338,Active,0,Partner,27-04-2025,Jakarta
+L0949,C00949,55,Male,Married,3,Bachelors,Salaried,42763126,6749977,75250123,Auto,733,12,12.87,4399458,Active,1,Online,18-03-2024,Jakarta
+L0950,C00950,50,Male,Married,0,Masters,Salaried,55829267,14060687,334412916,Personal,785,60,16.69,11715093,Closed,0,Branch,19-03-2024,Medan
+L0951,C00951,51,Female,Single,1,High School,Contract,21995763,12299980,115882203,BNPL,722,60,8.33,16252918,Closed,0,Branch,19-04-2023,Bali
+L0952,C00952,25,Male,Divorced,2,Bachelors,Salaried,30717419,14850598,276909690,Auto,707,48,16.35,12358815,Restructured,0,Online,22-07-2023,Bali
+L0953,C00953,64,Male,Single,3,Bachelors,Salaried,42976172,14961568,185482771,Auto,721,36,18.19,16026292,Active,0,Agent,04-12-2022,Medan
+L0954,C00954,34,Female,Married,3,Bachelors,Self-Employed,49265313,419503,236361476,Personal,787,48,11.75,15049471,Closed,0,Branch,24-10-2023,Bali
+L0955,C00955,31,Female,Single,2,Masters,Salaried,32250644,6488000,25780630,Personal,751,12,17.26,1248595,Active,0,Branch,20-07-2023,Bandung
+L0956,C00956,29,Male,Married,0,Masters,Salaried,19931127,7586544,351118265,Personal,604,36,18.35,11340969,Active,0,Partner,29-08-2024,Surabaya
+L0957,C00957,54,Male,Divorced,0,Masters,Salaried,46907567,14395813,14886202,Mortgage,696,60,18.99,8968737,Delinquent,1,Online,27-03-2025,Medan
+L0958,C00958,32,Male,Single,0,Masters,Self-Employed,35955478,8318849,136845903,Personal,706,36,20.42,9194563,Active,0,Partner,18-10-2022,Jakarta
+L0959,C00959,55,Male,Married,1,High School,Salaried,14811141,11568496,366228533,Mortgage,551,12,12.98,3276881,Active,1,Online,02-02-2025,Bali
+L0960,C00960,55,Male,Single,1,High School,Freelancer,34005170,7608965,91009709,Personal,713,36,17.08,8479602,Closed,0,Online,31-05-2024,Bandung
+L0961,C00961,21,Male,Divorced,3,PhD,Self-Employed,42413236,158253,390757781,Auto,696,48,23.71,7496195,Active,0,Agent,18-05-2024,Bandung
+L0962,C00962,60,Female,Married,0,High School,Salaried,40879884,9058353,100352831,Auto,684,12,22.37,16364217,Active,0,Partner,07-06-2024,Surabaya
+L0963,C00963,42,Female,Married,2,Masters,Salaried,19783984,8209061,20315271,Personal,703,24,23.24,18697416,Active,0,Online,21-07-2023,Bandung
+L0964,C00964,49,Female,Single,3,Masters,Salaried,19368342,3211369,430216186,Personal,756,12,14.18,10228879,Active,0,Branch,14-01-2025,Bali
+L0965,C00965,28,Male,Divorced,2,Bachelors,Self-Employed,31559312,1659537,146645395,Personal,660,48,20.59,10426371,Delinquent,0,Agent,23-11-2023,Bali
+L0966,C00966,31,Female,Married,3,PhD,Salaried,5928252,1279898,149528882,Mortgage,797,12,17.92,13337210,Active,1,Online,15-05-2023,Bandung
+L0967,C00967,61,Male,Single,1,Bachelors,Salaried,5600338,2364840,324418509,Mortgage,587,48,9.32,2178152,Delinquent,1,Online,14-11-2024,Bali
+L0968,C00968,57,Male,Married,3,Bachelors,Salaried,51684370,771143,419210918,Personal,680,36,21.18,4523700,Active,0,Branch,19-11-2023,Bali
+L0969,C00969,34,Female,Single,1,High School,Contract,38628663,6697947,91618212,Auto,651,48,18.83,3107154,Active,0,Online,31-03-2025,Jakarta
+L0970,C00970,50,Male,Married,3,Bachelors,Salaried,37992373,3906377,178336049,Personal,757,72,11.18,11221325,Active,0,Online,20-06-2023,Medan
+L0971,C00971,55,Male,Single,0,High School,Freelancer,27323902,12879606,412931018,Personal,743,12,9.28,19623614,Delinquent,0,Partner,28-08-2025,Bali
+L0972,C00972,41,Female,Married,2,Bachelors,Salaried,8526185,12374461,479066855,Personal,644,24,21.39,18254914,Active,0,Online,09-02-2024,Bali
+L0973,C00973,57,Female,Married,0,Masters,Salaried,37733225,1461433,250466080,BNPL,641,60,9.26,4132196,Closed,1,Partner,10-07-2025,Surabaya
+L0974,C00974,25,Female,Single,3,Masters,Salaried,25922682,3348549,283166110,Personal,620,24,9.46,9919537,Active,0,Branch,25-06-2023,Medan
+L0975,C00975,39,Male,Single,3,High School,Salaried,32015955,14497941,173915386,Personal,771,24,14.84,11485460,Restructured,0,Branch,25-02-2025,Medan
+L0976,C00976,34,Female,Single,3,Bachelors,Salaried,34854024,9714933,231998133,Personal,720,60,10.16,14078433,Delinquent,0,Branch,11-07-2024,Medan
+L0977,C00977,46,Female,Married,1,Masters,Salaried,41147482,13079301,456334891,Personal,799,72,22.62,14971815,Closed,0,Branch,28-09-2022,Bandung
+L0978,C00978,24,Male,Single,2,High School,Freelancer,37779182,10536473,401255073,Mortgage,739,36,15.52,12244672,Delinquent,0,Online,20-01-2024,Jakarta
+L0979,C00979,45,Female,Married,2,High School,Freelancer,17411137,7753638,223002481,Personal,748,24,17.11,10442143,Closed,0,Online,31-10-2022,Jakarta
+L0980,C00980,62,Female,Single,3,High School,Self-Employed,58445182,5580427,416651769,Personal,777,36,22.85,7187641,Delinquent,1,Partner,29-03-2024,Surabaya
+L0981,C00981,45,Female,Single,3,Bachelors,Salaried,8600957,11330658,247697136,Mortgage,770,24,16.48,11798706,Active,0,Online,30-12-2024,Medan
+L0982,C00982,38,Male,Married,1,High School,Salaried,28231075,1576845,151118453,Personal,573,48,13.66,14588164,Active,0,Online,02-07-2023,Medan
+L0983,C00983,60,Male,Single,0,PhD,Salaried,48023172,988722,311930813,Mortgage,793,48,20.75,17377053,Closed,0,Agent,04-07-2025,Bali
+L0984,C00984,28,Male,Divorced,0,Bachelors,Self-Employed,52444390,2037398,145949869,Auto,716,60,15.09,15665941,Active,1,Agent,29-09-2023,Bandung
+L0985,C00985,59,Male,Married,2,Bachelors,Freelancer,38510865,14533551,442102199,Personal,617,12,13.1,17114579,Active,1,Online,24-09-2022,Bandung
+L0986,C00986,60,Female,Married,1,High School,Salaried,31891636,3527110,294507782,Mortgage,677,36,19.57,7346502,Active,0,Online,11-10-2024,Surabaya
+L0987,C00987,34,Male,Married,3,Bachelors,Salaried,16674357,4289639,278348533,Personal,642,24,20.83,14622001,Active,0,Partner,10-09-2024,Jakarta
+L0988,C00988,52,Male,Married,2,Bachelors,Salaried,34936378,6398897,423280956,Auto,593,24,20.67,2405313,Closed,1,Partner,06-01-2024,Medan
+L0989,C00989,58,Female,Single,1,Masters,Salaried,15051526,1065560,141917442,Auto,682,48,23.64,11913070,Active,0,Online,17-07-2024,Surabaya
+L0990,C00990,53,Female,Single,0,Masters,Salaried,13905808,7989900,462668410,Personal,604,24,20.59,5361502,Restructured,0,Online,24-10-2022,Bandung
+L0991,C00991,43,Female,Single,1,Bachelors,Self-Employed,37708134,7189204,186447397,Mortgage,770,48,20.32,5163121,Delinquent,0,Partner,03-03-2023,Bandung
+L0992,C00992,35,Male,Married,0,Masters,Self-Employed,18867431,6707432,268563283,BNPL,707,48,21.72,5535484,Delinquent,0,Agent,29-03-2025,Bandung
+L0993,C00993,53,Male,Single,1,Masters,Salaried,42932419,8349065,427850785,Education,578,72,8,4686788,Active,1,Partner,01-06-2023,Medan
+L0994,C00994,45,Male,Married,2,Masters,Salaried,42394405,2754036,469119728,Mortgage,703,48,13.8,13500426,Active,0,Online,09-09-2024,Medan
+L0995,C00995,37,Female,Divorced,0,High School,Contract,23141080,6934198,75405995,Auto,760,60,19.8,18108228,Restructured,0,Branch,17-04-2024,Medan
+L0996,C00996,53,Female,Married,2,High School,Salaried,46090756,7389434,293922559,Personal,703,36,17.6,10066186,Delinquent,0,Branch,22-06-2024,Bali
+L0997,C00997,22,Male,Married,2,High School,Salaried,51669469,91656,272384491,Personal,586,24,10.84,14208324,Closed,0,Online,15-09-2022,Jakarta
+L0998,C00998,34,Female,Single,0,Bachelors,Salaried,10421251,2162766,45188893,Auto,768,36,12.86,7951775,Active,0,Online,22-03-2023,Bandung
+L0999,C00999,60,Female,Married,0,Bachelors,Salaried,45782551,14847027,326927760,Personal,771,36,13.39,13796963,Active,0,Online,27-06-2025,Bandung
+L1000,C01000,60,Female,Married,3,Bachelors,Salaried,57291868,353153,324385210,Education,664,48,17.09,7729806,Closed,0,Branch,03-11-2024,Bali
