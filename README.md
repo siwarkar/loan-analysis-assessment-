@@ -1,126 +1,102 @@
-📊 FLIN – Data Analyst Assignment
+# 💳 Loan Assessment – Data Analyst Project
 
-Credit Risk & Portfolio Analytics
+This project focuses on **loan risk assessment and analysis** using real-world lending data.  
+It demonstrates practical **data analysis, business reasoning, and reporting skills** expected from a Data Analyst role.
 
-📌 Overview
+The project includes exploratory analysis, insights generation, and a professional report explaining findings and recommendations.
 
-This repository contains my submission for the FLIN Data Analyst – Credit Risk & Portfolio Analytics assignment.
-The objective of this analysis is to evaluate portfolio health, identify key credit risk drivers, and provide data-backed business recommendations across pricing, channels, and customer segments.
+---
 
-The work emphasizes:
+## 📂 Project Structure
 
-Practical credit risk analytics
+```
+loan-assessment/
+│
+├── Loan Dataset.csv          # Raw loan dataset
+├── loan final.ipynb          # Data analysis & insights notebook
+├── Assignment - Data Analyst.pdf   # Problem statement / assignment brief
+├── report.pdf                # Final analysis report
+└── README.md                 # Project documentation
+```
 
-Transparent assumptions and calculations
+---
 
-Actionable insights for business stakeholders
+## 🎯 Business Objective
 
-⚠️ All analysis is performed using formulas, pivot tables, and charts. No static or copy-pasted outputs are used, in line with the submission guidelines. 
+Financial institutions must assess loan applications accurately to minimize default risk.
 
-Assignment - Data Analyst
+**Goal:**  
+Analyze loan data to identify patterns, risk indicators, and insights that support **better lending decisions**.
 
-🧠 Business Context
+---
 
-FLIN operates in the distressed and subprime lending space, focusing on salaried employees across Indonesia.
-The analysis supports decision-making in:
+## 🧠 Analysis Performed
 
-Portfolio risk management
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Borrower risk profiling  
+- Income vs loan amount analysis  
+- Default risk indicators  
+- Business-focused insights and conclusions  
 
-Risk-based pricing feasibility
+---
 
-Channel and product optimization
+## 🛠️ Tools & Technologies
 
-Customer demographic risk patterns
+- Python  
+- Pandas  
+- NumPy  
+- Jupyter Notebook  
+- Data Visualization (Matplotlib / Seaborn)
 
-The dataset consists of 1,000 synthetic loans, covering demographics, income, credit scores, repayment behavior, regions, products, and acquisition channels.
-📄 Files Description
+---
 
-FLIN_Data_Analyst_Assignment_Report.pdf
-Structured written analysis (Portfolio, Risk, Business Decisions, Executive Summary)
+## 📊 Key Deliverables
 
-FLIN_Credit_Risk_Analysis.xlsx
-Core working file containing:
+### 📘 Assignment Brief
+➡️ [Download Assignment PDF](sandbox:/mnt/data/Assignment - Data Analyst.pdf)
 
-Data cleaning & transformations
+### 📄 Final Report
+➡️ [Download Analysis Report](sandbox:/mnt/data/report.pdf)
 
-Calculated metrics (DTI, delinquency rates, profitability)
+### 📈 Dataset
+➡️ [Download Loan Dataset](sandbox:/mnt/data/Loan Dataset.csv)
 
-Pivot tables & charts
+### 🧪 Jupyter Notebook
+➡️ [Download Analysis Notebook](sandbox:/mnt/data/loan final.ipynb)
 
-Scenario analysis for pricing changes
+---
 
-Assumptions_Notes.md
-Clear documentation of modeling assumptions and business logic
+## 🚀 How to Run the Notebook
 
-🔍 Analysis Coverage
-Section A – Portfolio & Risk Analytics
+1. Install dependencies:
+```bash
+pip install pandas numpy matplotlib seaborn
+```
 
-Loan amount distribution by product
+2. Open Jupyter Notebook:
+```bash
+jupyter notebook
+```
 
-Age group vs delinquency rate
+3. Run `loan final.ipynb`
 
-Debt-to-Income (DTI) computation and risk segmentation
+---
 
-Vintage curves (Months-on-Book vs delinquency)
+## 📌 Insights & Outcomes
 
-Credit score distribution by loan status
+- Identified borrower characteristics linked to higher risk  
+- Highlighted income and loan amount trends  
+- Provided actionable insights for lending decisions  
+- Delivered business-ready analysis report  
 
-Regional & product delinquency heatmap
+---
 
-Section B – Business Decision-Making
+## ✨ Author
 
-Interest rate vs credit score vs delinquency analysis
+**Swapnil Iwarkar**  
+_Data Analyst | Data Science_
 
-Risk-based pricing recommendation
+---
 
-Scenario impact of +2% interest for low credit scores
-
-Channel-level risk & profitability comparison
-
-Product and channel growth recommendations
-
-Section C – Business Partnering
-
-Executive summary (non-technical, stakeholder-ready)
-
-Actionable recommendations for:
-
-Credit
-
-Product
-
-Customer Success
-
-Marketing
-
-📐 Key Methodology Principles
-
-All metrics are formula-driven
-
-No black-box models or generic frameworks
-
-Deliberate ambiguities addressed with explicit assumptions
-
-Business logic prioritized over academic complexity
-
-🛠 Tools Used
-
-Microsoft Excel
-
-Pivot Tables
-
-Advanced formulas
-
-Conditional formatting
-
-Charts & heatmaps
-
-Structured documentation for assumptions & decisions
-
-✅ Submission Notes
-
-Original analysis (no copy-paste or LLM-generated content)
-
-Designed to mirror real-world credit analytics workflows
-
-Focused on clarity, interpretability, and business impact
+> This project demonstrates my ability to analyze financial datasets, extract insights, and communicate findings through clear reports.
