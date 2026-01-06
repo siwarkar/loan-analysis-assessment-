@@ -99,4 +99,3 @@ _Data Analyst | Data Science_
 
 ---
 
-> This project demonstrates my ability to analyze financial datasets, extract insights, and communicate findings through clear reports.
